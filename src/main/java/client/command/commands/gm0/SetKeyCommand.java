@@ -112,3 +112,14 @@ public class SetKeyCommand extends Command{
 // Key: 71 home Type: 1 Action: 14101002 // skill claw booster
 // Key: 79 end Type: 1 Action: 14101003 // skill haste - night walker
 // Key: 88 f12 Type: 1 Action: 14101006  // skill vampire
+// type 1 -> skill
+// type 4 -> user interface, open menus, chat
+// type 5 -> action (attack, jump, pick up)
+// type 6 -> emotion
+// type 7 -> item
+// NEED TO CHECK
+// type 2 -> pet command?
+// type 3 -> mount command?
+// type 8 -> cash item?
+// type 9 -> quest item?
+// type 10 -> skill macro?
