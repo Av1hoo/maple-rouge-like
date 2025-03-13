@@ -513,6 +513,13 @@ public class Character extends AbstractCharacterObject {
         ret.getInventory(InventoryType.SETUP).setSlotLimit(24);
         ret.getInventory(InventoryType.ETC).setSlotLimit(24);
 
+        // learn the skill Haste
+        Skill haste = SkillFactory.getSkill(4101004);
+        if (haste != null) {
+            // byte skillevel, int masterlevel, long expiration
+            ret.skills.put(haste, new SkillEntry((byte) 20, 20, (long) -1));
+        }
+
         // Select a keybinding method
         int[] selectedKey;
         int[] selectedType;
@@ -531,6 +538,10 @@ public class Character extends AbstractCharacterObject {
         for (int i = 0; i < selectedKey.length; i++) {
             ret.keymap.put(selectedKey[i], new KeyBinding(selectedType[i], selectedAction[i]));
         }
+        // need to learn the skill first ^^
+        // add Haste to key 't'
+        // key - 20 , type - 1, action - 4101004
+        ret.keymap.put(20, new KeyBinding(1, 4101004));
 
 
         //to fix the map 0 lol
