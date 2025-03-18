@@ -1,8 +1,10 @@
 package client.command.commands.gm0;
 
 import client.Client;
+import client.SkillFactory;
 import client.command.Command;
 import client.keybind.KeyBinding;
+import tools.PacketCreator;
 
 import java.util.Map;
 import client.Character;
@@ -50,20 +52,14 @@ public class SetKeyCommand extends Command{
 
     @Override
     public void execute(Client client, String[] params) {
-        // params[0] = key - string representation of key in the keyboard
-        // params[1] = skill - number
-
         Character player = client.getPlayer();
-        player.changeKeybinding(20, new KeyBinding(1, 4101004));
-
-        // send yellow message to user that Haste assign to 't' key
-        player.yellowMessage("Haste assign to 't' key");
-        Map<Integer, KeyBinding> ret = player.getKeymap();
-        for (Map.Entry<Integer, KeyBinding> entry : ret.entrySet()) {
-            // KeyBinding -> type, action
-            System.out.println("Key: " + entry.getKey() + " " + keyboardMapInt.get(entry.getKey()) + " Type: " + entry.getValue().getType() + " Action: " + entry.getValue().getAction());
+        if (params.length < 2) {
+            player.yellowMessage("Syntax: @setkey <key> <skillid>");
+            return;
         }
-        //ret.keymap.put(20, new KeyBinding(1, 4101004));
+        player.changeKeybinding(keyboardMapString.get(params[0]), new KeyBinding(1, Integer.parseInt(params[1])));
+        player.yellowMessage("Skill " + SkillFactory.getSkillName(Integer.parseInt(params[1])) + " assigned to " + params[0] + " key");
+        client.sendPacket(PacketCreator.getKeymap(player.getKeymap()));
     }
 }
 
