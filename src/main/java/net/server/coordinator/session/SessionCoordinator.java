@@ -141,6 +141,7 @@ public class SessionCoordinator {
             case COORDINATOR_ERROR -> {
                 return true;
             }
+            
         }
 
         try {

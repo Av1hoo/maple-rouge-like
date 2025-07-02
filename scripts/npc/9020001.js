@@ -27,15 +27,21 @@
  * @func: Kerning PQ
  */
 
+// var stage1Questions = Array(
+//     "Here's the question. Collect the same number of coupons as the minimum level required to make the first job advancement as warrior.",
+//     "Here's the question. Collect the same number of coupons as the minimum amount of STR needed to make the first job advancement as a warrior.",
+//     "Here's the question. Collect the same number of coupons as the minimum amount of INT needed to make the first job advancement as a magician.",
+//     "Here's the question. Collect the same number of coupons as the minimum amount of DEX needed to make the first job advancement as a bowman.",
+//     "Here's the question. Collect the same number of coupons as the minimum amount of DEX needed to make the first job advancement as a thief.",
+//     "Here's the question. Collect the same number of coupons as the minimum level required to advance to 2nd job.",
+//     "Here's the question. Collect the same number of coupons as the minimum level required to make the first job advancement as a magician.");
+// var stage1Answers = Array(10, 35, 20, 25, 25, 30, 8);
 var stage1Questions = Array(
-    "Here's the question. Collect the same number of coupons as the minimum level required to make the first job advancement as warrior.",
-    "Here's the question. Collect the same number of coupons as the minimum amount of STR needed to make the first job advancement as a warrior.",
-    "Here's the question. Collect the same number of coupons as the minimum amount of INT needed to make the first job advancement as a magician.",
-    "Here's the question. Collect the same number of coupons as the minimum amount of DEX needed to make the first job advancement as a bowman.",
-    "Here's the question. Collect the same number of coupons as the minimum amount of DEX needed to make the first job advancement as a thief.",
-    "Here's the question. Collect the same number of coupons as the minimum level required to advance to 2nd job.",
-    "Here's the question. Collect the same number of coupons as the minimum level required to make the first job advancement as a magician.");
-var stage1Answers = Array(10, 35, 20, 25, 25, 30, 8);
+    "Collect the same number of coupons as the month Avihoo was born.",
+    "Collect the same number of coupons as the number of Harry Potter books you have read so far.",
+    "Collect the same number of coupons as the number of times you moved apartments together.",
+    "Collect the same number of coupons as the number of flights you took on the USA trip.",);
+var stage1Answers = Array(6, 4, 3, 5);
 
 const Rectangle = Java.type('java.awt.Rectangle');
 var stage2Rects = Array(new Rectangle(-755, -132, 4, 218), new Rectangle(-721, -340, 4, 166), new Rectangle(-586, -326, 4, 150), new Rectangle(-483, -181, 4, 222));
@@ -46,7 +52,12 @@ var stage4Rects = Array(new Rectangle(910, -236, 35, 5), new Rectangle(877, -184
     new Rectangle(946, -184, 35, 5), new Rectangle(845, -132, 35, 5),
     new Rectangle(910, -132, 35, 5), new Rectangle(981, -132, 35, 5));
 
+var stage2CombosForTwo = Array(Array(0, 0, 1, 1), Array(0, 1, 0, 1), Array(0, 1, 1, 0), Array(1, 1, 0, 0));
 var stage2Combos = Array(Array(0, 1, 1, 1), Array(1, 0, 1, 1), Array(1, 1, 0, 1), Array(1, 1, 1, 0));
+var stage3CombosForTwo = [
+    Array(1, 1, 0, 0, 0), Array(1, 0, 1, 0, 0), Array(1, 0, 0, 1, 0), Array(1, 0, 0, 0, 1), Array(0, 1, 1, 0, 0),
+     Array(0, 1, 0, 1, 0), Array(0, 1, 0, 0, 1), Array(0, 0, 1, 1, 0), Array(0, 0, 1, 0, 1), Array(0, 0, 0, 1, 1)
+];
 var stage3Combos = Array(Array(0, 0, 1, 1, 1), Array(0, 1, 0, 1, 1), Array(0, 1, 1, 0, 1),
     Array(0, 1, 1, 1, 0), Array(1, 0, 0, 1, 1), Array(1, 0, 1, 0, 1),
     Array(1, 0, 1, 1, 0), Array(1, 1, 0, 0, 1), Array(1, 1, 0, 1, 0),
@@ -58,6 +69,11 @@ var stage4Combos = Array(Array(0, 0, 0, 1, 1, 1), Array(0, 0, 1, 0, 1, 1), Array
     Array(1, 0, 0, 1, 1, 0), Array(1, 0, 1, 0, 0, 1), Array(1, 0, 1, 0, 1, 0),
     Array(1, 0, 1, 1, 0, 0), Array(1, 1, 0, 0, 0, 1), Array(1, 1, 0, 0, 1, 0),
     Array(1, 1, 0, 1, 0, 0), Array(1, 1, 1, 0, 0, 0));
+var stage4CombosForTwo = [ Array(1, 1, 0, 0, 0, 0), Array(1, 0, 1, 0, 0, 0), Array(1, 0, 0, 1, 0, 0),
+    Array(1, 0, 0, 0, 1, 0), Array(1, 0, 0, 0, 0, 1), Array(0, 1, 1, 0, 0, 0), Array(0, 1, 0, 1, 0, 0), 
+    Array(0, 1, 0, 0, 1, 0), Array(0, 1, 0, 0, 0, 1), Array(0, 0, 1, 1, 0, 0), Array(0, 0, 1, 0, 1, 0), 
+    Array(0, 0, 1, 0, 0, 1), Array(0, 0, 0, 1, 1, 0), Array(0, 0, 0, 1, 0, 1), Array(0, 0, 0, 0, 1, 1)
+];
 
 function clearStage(stage, eim, curMap) {
     eim.setProperty(stage + "stageclear", "true");
@@ -174,7 +190,13 @@ function action(mode, type, selection) {
                 cm.dispose();
             } else if (curMap == 103000801) {   // stage 2
                 var stgProperty = "stg2Property";
-                var stgCombos = stage2Combos;
+                // check if 2 players are in the map
+                if (eim.getPlayerCount() == 2) {
+                    var stgCombos = stage2CombosForTwo;
+                }
+                else {
+                    var stgCombos = stage2Combos;
+                }
                 var stgAreas = stage2Rects;
 
                 var nthtext = "2nd", nthobj = "ropes", nthverb = "hang", nthpos = "hang on the ropes too low";
@@ -201,7 +223,12 @@ function action(mode, type, selection) {
                 cm.dispose();
             } else if (curMap == 103000802) {
                 var stgProperty = "stg3Property";
-                var stgCombos = stage3Combos;
+                if (eim.getPlayerCount() == 2) {
+                    var stgCombos = stage3CombosForTwo;
+                }
+                else {
+                    var stgCombos = stage3Combos;
+                }
                 var stgAreas = stage3Rects;
 
                 var nthtext = "3rd", nthobj = "platforms", nthverb = "stand", nthpos = "stand too close to the edges";
@@ -228,7 +255,12 @@ function action(mode, type, selection) {
                 cm.dispose();
             } else if (curMap == 103000803) {
                 var stgProperty = "stg4Property";
-                var stgCombos = stage4Combos;
+                if (eim.getPlayerCount() == 2) {
+                    var stgCombos = stage4CombosForTwo;
+                }
+                else {
+                    var stgCombos = stage4Combos;
+                }
                 var stgAreas = stage4Rects;
 
                 var nthtext = "4th", nthobj = "barrels", nthverb = "stand", nthpos = "stand too close to the edges";

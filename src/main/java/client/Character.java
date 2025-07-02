@@ -9924,6 +9924,7 @@ public class Character extends AbstractCharacterObject {
                 case incMDD:
                     incVal = (float) Math.log(incVal);
                     break;
+                default:
             }
 
             if (newVal != null) {

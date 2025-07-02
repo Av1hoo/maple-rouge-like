@@ -1,0 +1,4466 @@
+[
+    {
+        "name": "10 Boogies",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "24 Hr Mobile Store",
+        "location": "Cursed Temple: Another Door"
+    },
+    {
+        "name": "3 Refugees",
+        "location": ""
+    },
+    {
+        "name": "???",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "????",
+        "location": "Orbis: Old Man's House"
+    },
+    {
+        "name": "A Familiar Lady",
+        "location": "Hidden Street: Gloomy Forest"
+    },
+    {
+        "name": "Abdula",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Abdullah VIII",
+        "location": "Ariant Castle: King's Room"
+    },
+    {
+        "name": "Abel",
+        "location": "Nautilus: Nautilus Harbor"
+    },
+    {
+        "name": "Ace",
+        "location": "Port Road: Station to Edelstein (multiple)"
+    },
+    {
+        "name": "Ace of Hearts",
+        "location": "Leafre (multiple)"
+    },
+    {
+        "name": "Adobis",
+        "location": "El Nath: The Door to Zakum (multiple)"
+    },
+    {
+        "name": "Adonis",
+        "location": "El Nath"
+    },
+    {
+        "name": "Adrian",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Afrien",
+        "location": "Afrien's Memory: Behind the Stronghold (multiple)"
+    },
+    {
+        "name": "Agatha",
+        "location": "Orbis: Orbis Station Enterence"
+    },
+    {
+        "name": "Agent C",
+        "location": ""
+    },
+    {
+        "name": "Agent E",
+        "location": ""
+    },
+    {
+        "name": "Agent Falcon",
+        "location": ""
+    },
+    {
+        "name": "Agent Kitty",
+        "location": ""
+    },
+    {
+        "name": "Agent Marco",
+        "location": "Omega Sector"
+    },
+    {
+        "name": "Agent Meow",
+        "location": ""
+    },
+    {
+        "name": "Agent O",
+        "location": ""
+    },
+    {
+        "name": "Agent P",
+        "location": ""
+    },
+    {
+        "name": "Agent W",
+        "location": ""
+    },
+    {
+        "name": "Ahmad",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Airu",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Albert",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Alcaster",
+        "location": "El Nath: El Nath Market"
+    },
+    {
+        "name": "Aldin",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Aldol",
+        "location": "Malaysia: Spooky World"
+    },
+    {
+        "name": "Alex",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Alex",
+        "location": "Amoria"
+    },
+    {
+        "name": "Alfonse Green",
+        "location": "Orbis: Cloud Park I"
+    },
+    {
+        "name": "Ali",
+        "location": "Malaysia: Kampung Village"
+    },
+    {
+        "name": "Alien Gray",
+        "location": "Omega Sector: Kulan Field II"
+    },
+    {
+        "name": "Allen",
+        "location": "Gelimer Research Lab: Second Square"
+    },
+    {
+        "name": "Alwyn",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Ames the Wise",
+        "location": "Amoria"
+    },
+    {
+        "name": "Amon",
+        "location": ""
+    },
+    {
+        "name": "Amoria Maple TV",
+        "location": "Amoria"
+    },
+    {
+        "name": "Amos the Strong",
+        "location": "Hidden Street: Amos' Training Ground"
+    },
+    {
+        "name": "Andre",
+        "location": "Kerning City: Kerning City Hair Salon"
+    },
+    {
+        "name": "Andy",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Andy",
+        "location": "Tera Forest: Tera Forest Time Gate"
+    },
+    {
+        "name": "Angelique",
+        "location": "Amoria"
+    },
+    {
+        "name": "Angie",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Anna",
+        "location": "Utah's House: Living Room"
+    },
+    {
+        "name": "Anne",
+        "location": "Henesys: The Hill North of Henesys"
+    },
+    {
+        "name": "Anonymous Sender",
+        "location": ""
+    },
+    {
+        "name": "Anthony",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Anz",
+        "location": "Zipangu: Inside the Castle Gate"
+    },
+    {
+        "name": "Aoi",
+        "location": "Zipangu: Outside Ninja Castle"
+    },
+    {
+        "name": "Aquarium Maple TV",
+        "location": "Aquarium"
+    },
+    {
+        "name": "Aramia",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Ardin",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "Arec",
+        "location": "El Nath: Chief's Residence"
+    },
+    {
+        "name": "Areda",
+        "location": "Ariant Castle: King's Room"
+    },
+    {
+        "name": "Ari",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Arturo",
+        "location": "Perion: Perion General Store"
+    },
+    {
+        "name": "Arwen the Fairy",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Asesson",
+        "location": "Ariant: Ariant Station Platform"
+    },
+    {
+        "name": "Ashura",
+        "location": "Neo City: <Year 2503> Air Battleship Area B"
+    },
+    {
+        "name": "Asia",
+        "location": "Neo City: <Year 2503> Air Battleship Bow"
+    },
+    {
+        "name": "Assistant Bonnie",
+        "location": "Amoria"
+    },
+    {
+        "name": "Assistant Cheng",
+        "location": "Ludibrium: Toy Factory <Process 1> Zone 1"
+    },
+    {
+        "name": "Assistant Nichole",
+        "location": "Amoria"
+    },
+    {
+        "name": "Astaroth's Doorway",
+        "location": ""
+    },
+    {
+        "name": "Athena Pierce",
+        "location": "Henesys: Bowman Instructional School (multiple)"
+    },
+    {
+        "name": "Athena Pierce",
+        "location": "Black Road: Ready to Leave"
+    },
+    {
+        "name": "Athena Pierce",
+        "location": ""
+    },
+    {
+        "name": "Audrey",
+        "location": "Singapore: CBD (multiple)"
+    },
+    {
+        "name": "Aura",
+        "location": "Adobis's Mission I: Unknown Dead Mine"
+    },
+    {
+        "name": "Ayan",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Baby Moon Bunny",
+        "location": "Hidden Street: Lunar World"
+    },
+    {
+        "name": "Baine",
+        "location": "The Nautilus: Bottom Floor - Hallway"
+    },
+    {
+        "name": "Bao",
+        "location": "Neo City: <Year 2215> Bombed City Center Shopping District"
+    },
+    {
+        "name": "Bari",
+        "location": "Maple Road: Entrance to Adventurer Training Center"
+    },
+    {
+        "name": "Baroq",
+        "location": ""
+    },
+    {
+        "name": "Barrier Totem",
+        "location": ""
+    },
+    {
+        "name": "Barry",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Bart",
+        "location": "Nautilus: Nautilus Harbor"
+    },
+    {
+        "name": "Bartol",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Barun",
+        "location": "Orbis: Orbis Tower <14th Floor>"
+    },
+    {
+        "name": "Battle Statue",
+        "location": "Party Quest: Grandmaster Council Hall"
+    },
+    {
+        "name": "Bavan",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Bedin",
+        "location": "Zenumist Research Institute: Lab - 1st Floor Hallway"
+    },
+    {
+        "name": "Bell",
+        "location": "New Leaf City Town Street: NLC Subway Station"
+    },
+    {
+        "name": "Belle",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Belle",
+        "location": "Resistance Headquarters: Secret Plaza"
+    },
+    {
+        "name": "Belle",
+        "location": "Hidden Street: Booby Trap! Laboratory Jail"
+    },
+    {
+        "name": "Ben",
+        "location": "Amoria"
+    },
+    {
+        "name": "Betty",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Bicho",
+        "location": ""
+    },
+    {
+        "name": "Bidiwon",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Big Daddy",
+        "location": "Gelimer Research Lab: Android Research Lab 3"
+    },
+    {
+        "name": "Big Headward",
+        "location": "Henesys: Henesys Hair Salon"
+    },
+    {
+        "name": "Biggs",
+        "location": "Maple Road: Southperry"
+    },
+    {
+        "name": "Bill",
+        "location": ""
+    },
+    {
+        "name": "Bing Force",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "Black Bark",
+        "location": "The Nautilus: Conference Room"
+    },
+    {
+        "name": "Black Hole Activator",
+        "location": "Some Day in the Present: Doctor Bing's Cube"
+    },
+    {
+        "name": "Black Jack",
+        "location": "Resistance Headquarters: Secret Plaza"
+    },
+    {
+        "name": "Black Mesoranger",
+        "location": "Omega Sector: Kulan Field I"
+    },
+    {
+        "name": "Black Portal",
+        "location": ""
+    },
+    {
+        "name": "Black Shadow",
+        "location": ""
+    },
+    {
+        "name": "Black-nosed Fur",
+        "location": "Happy Village: White Christmas Hill"
+    },
+    {
+        "name": "Blackbull",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Blake",
+        "location": "Kerning City Subway: Kerning Square Station"
+    },
+    {
+        "name": "Blocked Entrance",
+        "location": ""
+    },
+    {
+        "name": "Blue King Goblin",
+        "location": "Hidden Street: Goblin House"
+    },
+    {
+        "name": "Bob",
+        "location": ""
+    },
+    {
+        "name": "Bomack",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Bonjasky",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Bonnie",
+        "location": "The Nautilus: Bottom Floor - Hallway"
+    },
+    {
+        "name": "Boss Kitty",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Botoxie",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Bowman Job Instructor",
+        "location": "Golem's Temple: Golem's Temple 4"
+    },
+    {
+        "name": "Bowman Statue",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Brainy Boy",
+        "location": "Neo City: <Year 2021> Average Town Entrance"
+    },
+    {
+        "name": "Branch Snowman",
+        "location": ""
+    },
+    {
+        "name": "Brighton",
+        "location": "Resistance Headquarters: Secret Plaza"
+    },
+    {
+        "name": "Brighton",
+        "location": "Hidden Street: Booby Trap! Laboratory Jail"
+    },
+    {
+        "name": "Brittany",
+        "location": "Henesys: Henesys Hair Salon"
+    },
+    {
+        "name": "Broken Carriage",
+        "location": ""
+    },
+    {
+        "name": "Bronze",
+        "location": "Zipangu: Mushroom Shrine"
+    },
+    {
+        "name": "Bruce",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Buck Teeth",
+        "location": "Verne Mine: Power Plant Lobby"
+    },
+    {
+        "name": "Bull Dog",
+        "location": "Utah's House: Front Yard"
+    },
+    {
+        "name": "Bulletin Board",
+        "location": "Excavation Site: Relic Excavation Camp"
+    },
+    {
+        "name": "Bung's Mama",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Bunny Large",
+        "location": "Dry Road: Mine Entrance"
+    },
+    {
+        "name": "Burnt Sword",
+        "location": "Burnt Land: Burning Heat"
+    },
+    {
+        "name": "Byron",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "Calico",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Calypso",
+        "location": "Aquarium: Department Store"
+    },
+    {
+        "name": "Camel Cab",
+        "location": "The Burning Sands: Outside North Entrance of Ariant (multiple)"
+    },
+    {
+        "name": "Camila",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Camila",
+        "location": ""
+    },
+    {
+        "name": "Candy",
+        "location": "Singapore: Boat Quay Town"
+    },
+    {
+        "name": "Captain Al",
+        "location": "Lith Harbor: Lith Harbor (multiple)"
+    },
+    {
+        "name": "Captain Edmond",
+        "location": "Neo City: <Year 2099> Midnight Harbor Warehouse"
+    },
+    {
+        "name": "Captain Hwang",
+        "location": "Herb Town"
+    },
+    {
+        "name": "Carol",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Carson",
+        "location": "Magatia: Zenumist Society"
+    },
+    {
+        "name": "Carta",
+        "location": "Aqua Road: Carta's Cave"
+    },
+    {
+        "name": "Casey",
+        "location": "Henesys: Henesys Game Park"
+    },
+    {
+        "name": "Cassandra",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Cesar",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Cezare",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Chan",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Chan",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Chang",
+        "location": "Verne Mine: Power Plant Security"
+    },
+    {
+        "name": "Charles",
+        "location": ""
+    },
+    {
+        "name": "Checky",
+        "location": "Resistance Headquarters: Secret Plaza"
+    },
+    {
+        "name": "Checky",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Checky",
+        "location": "Hidden Street: Booby Trap! Laboratory Jail"
+    },
+    {
+        "name": "Chee Wee",
+        "location": "Malaysia: Muddy Banks 1"
+    },
+    {
+        "name": "Chef",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Cherry",
+        "location": "Victoria Road: Ellinia Station"
+    },
+    {
+        "name": "Chiang",
+        "location": "Malaysia: Trend Zone Metropolis"
+    },
+    {
+        "name": "Chico",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Chief Stan",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Chief Tatamo",
+        "location": "Leafre"
+    },
+    {
+        "name": "Chil Nam",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Chil Nam's Rice Stacks",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Chil Sung",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Chil Sung's Rice Stacks",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Chris",
+        "location": "Kerning City: Kerning City Repair Shop"
+    },
+    {
+        "name": "Chrishrama",
+        "location": "Sleepywood: Sleepywood"
+    },
+    {
+        "name": "Christmas Tree",
+        "location": ""
+    },
+    {
+        "name": "Christopher",
+        "location": "Burnt Land: Wild Pig Land"
+    },
+    {
+        "name": "Chumji",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Chun Ji",
+        "location": "Construction Site: Caution Falling Down"
+    },
+    {
+        "name": "Chury",
+        "location": "Omega Sector: Silo"
+    },
+    {
+        "name": "Claudia",
+        "location": "Amoria"
+    },
+    {
+        "name": "Claudine",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Claudine",
+        "location": "Resistance Headquarters: Secret Plaza"
+    },
+    {
+        "name": "Cliff",
+        "location": ""
+    },
+    {
+        "name": "Cloy",
+        "location": "Henesys: Henesys Park"
+    },
+    {
+        "name": "Coco",
+        "location": "Leafre (multiple)"
+    },
+    {
+        "name": "Cody",
+        "location": "Amoria (multiple)"
+    },
+    {
+        "name": "Coliseum",
+        "location": "Floating Island of Chryse: Inside the Coliseum (multiple)"
+    },
+    {
+        "name": "Commando Jim",
+        "location": "Singapore: Ulu City Entrance"
+    },
+    {
+        "name": "Commando Jim [2]",
+        "location": "Singapore: Ruins of Krexel II"
+    },
+    {
+        "name": "Corba",
+        "location": "Leafre: Station"
+    },
+    {
+        "name": "Corine",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Corporal Easy",
+        "location": "Orbis: Cloud Park VI"
+    },
+    {
+        "name": "Corporal Wilson",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Cory",
+        "location": "Verne Mine: First Square"
+    },
+    {
+        "name": "Cory's Reagent Bottle",
+        "location": ""
+    },
+    {
+        "name": "Court Oasis",
+        "location": "Ariant: Ariant Castle"
+    },
+    {
+        "name": "Crane",
+        "location": "Herb Town (multiple)"
+    },
+    {
+        "name": "Crawls with Balrog",
+        "location": "Altaire Camp: Tent House 2"
+    },
+    {
+        "name": "Crimson Sky Doorway",
+        "location": "Leafre: Crimson Sky Dock (multiple)"
+    },
+    {
+        "name": "Crumbling Statue",
+        "location": ""
+    },
+    {
+        "name": "Crying Girl",
+        "location": "Neo City: <Year 2021> Average Town Entrance"
+    },
+    {
+        "name": "Crystal",
+        "location": ""
+    },
+    {
+        "name": "Crystanol",
+        "location": "A Day in the Future: Energy Laboratory [2]"
+    },
+    {
+        "name": "Crystanol Synthesizer",
+        "location": "Some Day in the Present: Doctor Bing's Cube"
+    },
+    {
+        "name": "Cutie",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Cutie",
+        "location": ""
+    },
+    {
+        "name": "Cutthroat Manny",
+        "location": "Kerning City: Kerning City Self-Defence Item Store"
+    },
+    {
+        "name": "Cygnus",
+        "location": "Ereve"
+    },
+    {
+        "name": "Dairy Cow",
+        "location": "Farm Street: Large Forest Trail"
+    },
+    {
+        "name": "Dalair",
+        "location": "Lith Harbor: Lith Harbor (multiple)"
+    },
+    {
+        "name": "Dalsuk",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Dances with Balrog",
+        "location": "Perion: Warriors' Sanctuary (multiple)"
+    },
+    {
+        "name": "Danger Zone Taxi",
+        "location": "El Nath (multiple)"
+    },
+    {
+        "name": "Dao",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Dargoth",
+        "location": "Hidden Street: Sealed Garden"
+    },
+    {
+        "name": "Dark Lord",
+        "location": "Kerning City: Thieves' Hideout (multiple)"
+    },
+    {
+        "name": "Dave & Iris",
+        "location": "Singapore: Boat Quay Town"
+    },
+    {
+        "name": "Deia",
+        "location": ""
+    },
+    {
+        "name": "Delphi",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Delv the Toy Soldier",
+        "location": "Ludibrium: Eos Tower 100th Floor"
+    },
+    {
+        "name": "Demon's Doorway",
+        "location": "Swamp Region: Dangerous Croco"
+    },
+    {
+        "name": "Demos",
+        "location": "Floating Island of Chryse: Road to Chryse"
+    },
+    {
+        "name": "Denma the Owner",
+        "location": "Henesys: Henesys Plastic Surgery"
+    },
+    {
+        "name": "Dimensional Mirror",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Dirty Bum",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "Do Gong",
+        "location": "Mu Lung: Mu Lung Temple"
+    },
+    {
+        "name": "Doctor Bing",
+        "location": "Some Day in the Present: OSSS Secret Base Doctor Bing's Room"
+    },
+    {
+        "name": "Doctor Bing",
+        "location": "Some Day in the Present: OSSS Secret Base Doctor Bing's Room (multiple)"
+    },
+    {
+        "name": "Doctor Bing at the Scene",
+        "location": ""
+    },
+    {
+        "name": "Document Roll",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Dolcetta-2000",
+        "location": "Gelimer Research Lab: Android Research Lab"
+    },
+    {
+        "name": "Doll Left Behind",
+        "location": "Hidden Street: Abandoned Cave"
+    },
+    {
+        "name": "Dolphin",
+        "location": "Aquarium (multiple)"
+    },
+    {
+        "name": "Dolphin",
+        "location": "Sea of Fog: Shipwrecked Ghost Ship"
+    },
+    {
+        "name": "Don Giovanni",
+        "location": "Kerning City: Kerning City Hair Salon"
+    },
+    {
+        "name": "Don Hwang",
+        "location": "Kerning City: Kerning City Self-Defence Item Store"
+    },
+    {
+        "name": "Donald",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Donation Box",
+        "location": "Lith Harbor: Lith Harbor (multiple)"
+    },
+    {
+        "name": "Dondlass",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Doofus",
+        "location": "Henesys: Pet-Walking Road (multiple)"
+    },
+    {
+        "name": "Door of Dimension",
+        "location": "Cursed Temple: Prohibited Altar"
+    },
+    {
+        "name": "Door to East Castle Tower",
+        "location": "Mushroom Castle: East Castle Tower"
+    },
+    {
+        "name": "Doran",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Dori",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Dr. 90212",
+        "location": "Amoria"
+    },
+    {
+        "name": "Dr. Bosch",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Dr. De Lang",
+        "location": ""
+    },
+    {
+        "name": "Dr. Faymus",
+        "location": "Kerning City: Kerning City Pharmacy"
+    },
+    {
+        "name": "Dr. Feeble",
+        "location": "Henesys: Henesys Plastic Surgery"
+    },
+    {
+        "name": "Dr. Kim",
+        "location": "Omega Sector: Command Center"
+    },
+    {
+        "name": "Dr. Lenu",
+        "location": "Henesys: Henesys Plastic Surgery"
+    },
+    {
+        "name": "Dr. Pepper",
+        "location": "Omega Sector: Silo"
+    },
+    {
+        "name": "Dr. Rhomes",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Dr. Roberts",
+        "location": "Amoria"
+    },
+    {
+        "name": "Dr. San",
+        "location": "Omega Sector: Silo"
+    },
+    {
+        "name": "Dragon",
+        "location": "Dream World: Dream Forest"
+    },
+    {
+        "name": "Dragon Nest",
+        "location": "Hidden Street: Lost Forest"
+    },
+    {
+        "name": "Dragon Rider",
+        "location": ""
+    },
+    {
+        "name": "Dress Chest",
+        "location": ""
+    },
+    {
+        "name": "Dropship",
+        "location": "Hidden Street: Plateon Field"
+    },
+    {
+        "name": "Duarte",
+        "location": "Hidden Street: Pyramid Dunes"
+    },
+    {
+        "name": "Dunamis",
+        "location": ""
+    },
+    {
+        "name": "Duru",
+        "location": "Elin Forest: Altaire Camp"
+    },
+    {
+        "name": "Eckhart",
+        "location": "Ereve"
+    },
+    {
+        "name": "Edel the Fairy",
+        "location": "Orbis"
+    },
+    {
+        "name": "Edelstein Message Board",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Eels",
+        "location": ""
+    },
+    {
+        "name": "El Moth",
+        "location": "Chimney Tree: Close to the Sky"
+    },
+    {
+        "name": "El Nath Magic Spot",
+        "location": "Orbis: Orbis Tower <1st Floor>"
+    },
+    {
+        "name": "El Nath Maple TV",
+        "location": "El Nath"
+    },
+    {
+        "name": "Eleanor",
+        "location": ""
+    },
+    {
+        "name": "Electronic Induction Device",
+        "location": ""
+    },
+    {
+        "name": "Eleska",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "Elevator Control",
+        "location": "Concrete Road: Edelstein Strolling Path 3 (multiple)"
+    },
+    {
+        "name": "Elex",
+        "location": "Resistance Headquarters: Training Room Entrance"
+    },
+    {
+        "name": "Elex [2]",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Eliza",
+        "location": "Hidden Street: Eliza's Garden"
+    },
+    {
+        "name": "Ellie",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Ellin",
+        "location": "Elin Forest: Deep Fairy Forest"
+    },
+    {
+        "name": "Ellinia Maple TV",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Elma the Housekeeper",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Elpam Gorlab",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Emily",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Encik Musa",
+        "location": "Malaysia: Trend Zone Metropolis"
+    },
+    {
+        "name": "Entrance of Sealed Shrine",
+        "location": ""
+    },
+    {
+        "name": "Eric",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Ericsson",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Ervine",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Estelle",
+        "location": "Chimney Tree: Close to the Wind"
+    },
+    {
+        "name": "Eunice",
+        "location": ""
+    },
+    {
+        "name": "Eurek the Alchemist",
+        "location": "Leafre (multiple)"
+    },
+    {
+        "name": "Everton",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Fabio",
+        "location": "Edelstein: Edelstein Hair Salon"
+    },
+    {
+        "name": "Faceless Photo",
+        "location": ""
+    },
+    {
+        "name": "Fairytale Crackers",
+        "location": "Ereve"
+    },
+    {
+        "name": "Faito",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Falcon Trainer",
+        "location": "Zipangu: Inside the Castle Gate"
+    },
+    {
+        "name": "FangBlade",
+        "location": "Perion: Warriors' Sanctuary"
+    },
+    {
+        "name": "Fanzy",
+        "location": "North Forest: North Forest Lot"
+    },
+    {
+        "name": "Fattie",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Fattie",
+        "location": ""
+    },
+    {
+        "name": "Ferdi",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Fiona",
+        "location": "Phantom Forest: Dead Man's Gorge"
+    },
+    {
+        "name": "First Eos Rock",
+        "location": "Ludibrium: Eos Tower 100th Floor"
+    },
+    {
+        "name": "Flo",
+        "location": "Ludibrium: Path of Time"
+    },
+    {
+        "name": "Flora the Fairy",
+        "location": "Ellinia: Ellinia Weapon Store"
+    },
+    {
+        "name": "Forgotten Temple Keeper",
+        "location": "Deep Place of Temple: Twilight of Gods"
+    },
+    {
+        "name": "Former Dark Lord",
+        "location": ""
+    },
+    {
+        "name": "Fourth Eos Rock",
+        "location": "Ludibrium: Eos Tower 1st Floor"
+    },
+    {
+        "name": "Fraidy Cat",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Francis",
+        "location": "Hidden Street: Puppeteer's Cave"
+    },
+    {
+        "name": "Francois",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Franz the Owner",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Full Moon",
+        "location": ""
+    },
+    {
+        "name": "Fur Puff",
+        "location": "Happy Village: White Christmas Hill"
+    },
+    {
+        "name": "Fur White",
+        "location": "Happy Village: White Christmas Hill"
+    },
+    {
+        "name": "Furano",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Future Doctor Bing",
+        "location": "Some Day in the Present: Doctor Bing's Cube"
+    },
+    {
+        "name": "Gabrielle",
+        "location": "Verne Mine: Power Plant Lobby"
+    },
+    {
+        "name": "Gabrielle's Suitcase",
+        "location": ""
+    },
+    {
+        "name": "Gachapon",
+        "location": "Ellinia: Ellinia (multiple)"
+    },
+    {
+        "name": "Gachapon",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Gachapon12",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Gachapon13",
+        "location": "Leafre"
+    },
+    {
+        "name": "Gaga",
+        "location": "Malaysia: Trend Zone Metropolis (multiple)"
+    },
+    {
+        "name": "Gaga [2]",
+        "location": ""
+    },
+    {
+        "name": "Gali",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Garnox",
+        "location": "Leafre (multiple)"
+    },
+    {
+        "name": "Gary and Shatima",
+        "location": "Amoria"
+    },
+    {
+        "name": "Gatekeeper Moon Bunny",
+        "location": "Hidden Street: Silent Yard of Moon Flowers (multiple)"
+    },
+    {
+        "name": "Geanie",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Gelimer",
+        "location": "Gelimer Research Lab: Second Square"
+    },
+    {
+        "name": "Gelimer",
+        "location": ""
+    },
+    {
+        "name": "General Maestro",
+        "location": "Omega Sector"
+    },
+    {
+        "name": "General Mau",
+        "location": "Henesys: Henesys Market"
+    },
+    {
+        "name": "Gerrard",
+        "location": "Aquarium: Department Store"
+    },
+    {
+        "name": "Ghosthunter Bob",
+        "location": "Ludibrium: Forgotten Path of Time <1>"
+    },
+    {
+        "name": "Giant Polearm",
+        "location": "Snow Island: Rien"
+    },
+    {
+        "name": "Giant Twin Dragon's Egg",
+        "location": "Dragon's Nest"
+    },
+    {
+        "name": "Gina",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Glibber",
+        "location": "El Nath: Ice Valley II"
+    },
+    {
+        "name": "Gloomy Mask",
+        "location": ""
+    },
+    {
+        "name": "Glowing Stele",
+        "location": "Farm Street: Forest Hall"
+    },
+    {
+        "name": "God of Mountains",
+        "location": "Korean Folk Town: A Small Well"
+    },
+    {
+        "name": "Gold Richie's Secret Weapon",
+        "location": ""
+    },
+    {
+        "name": "Gong Gong",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Gordon",
+        "location": "El Nath: El Nath Market"
+    },
+    {
+        "name": "Grako",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Grandma Benson",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Grandma Yeon",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Grandpa Clock",
+        "location": "Ludibrium: Lost Time <1>"
+    },
+    {
+        "name": "Grandpa Luo",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Grandpa Moon Bunny",
+        "location": "Hidden Street: Lunar World (multiple)"
+    },
+    {
+        "name": "Green King Goblin",
+        "location": "Hidden Street: Goblin House"
+    },
+    {
+        "name": "Green Mesoranger",
+        "location": "Omega Sector: Boswell Field IV"
+    },
+    {
+        "name": "Grendel the Really Old",
+        "location": "Ellinia: Magic Library (multiple)"
+    },
+    {
+        "name": "Gritto",
+        "location": "Leafre: Forest of the Priest"
+    },
+    {
+        "name": "Guide Moon Bunny",
+        "location": "Hidden Street: Playground of Moon Bunnies"
+    },
+    {
+        "name": "Guild Rank Board",
+        "location": "Excavation Site: Relic Excavation Camp"
+    },
+    {
+        "name": "Gumball Machine",
+        "location": "Ludibrium: Eos Tower 36th - 65th Floor"
+    },
+    {
+        "name": "Gunny",
+        "location": "Omega Sector: Boswell Field V"
+    },
+    {
+        "name": "Guon",
+        "location": "Herb Town: Over the Pirate Ship"
+    },
+    {
+        "name": "Gustav",
+        "location": "Farm Street: Farm Center"
+    },
+    {
+        "name": "Gwin",
+        "location": "Cursed Temple: Another Door"
+    },
+    {
+        "name": "Haenim",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Hak",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Han the Broker",
+        "location": "Sunset Road: Magatia"
+    },
+    {
+        "name": "Hana",
+        "location": "El Nath: El Nath Market"
+    },
+    {
+        "name": "Hanako",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Hanako",
+        "location": "Maple 7th Day Market"
+    },
+    {
+        "name": "Hannah",
+        "location": ""
+    },
+    {
+        "name": "Hans the Assembler",
+        "location": "Ludibrium: Toy Factory <Process 2> Zone 2"
+    },
+    {
+        "name": "Happy",
+        "location": ""
+    },
+    {
+        "name": "Harmonia",
+        "location": "Leafre: Forest of the Priest"
+    },
+    {
+        "name": "Harry",
+        "location": "Perion: Perion Weapon Store"
+    },
+    {
+        "name": "Harry Lion",
+        "location": "Dry Road: Hidden Portal"
+    },
+    {
+        "name": "Hawkeye",
+        "location": "Ereve"
+    },
+    {
+        "name": "Head Researcher Wynn",
+        "location": "Some Day in the Present: OSSS Secret Base Laboratory (multiple)"
+    },
+    {
+        "name": "Head Security Officer",
+        "location": "Mushroom Castle: Mushroom Forest Field"
+    },
+    {
+        "name": "Head Wolf",
+        "location": "Hidden Street: Wolf's Agony"
+    },
+    {
+        "name": "Heena",
+        "location": "Maple Road: Mushroom Town"
+    },
+    {
+        "name": "Helena",
+        "location": "Altaire Camp: Camp Conference Room"
+    },
+    {
+        "name": "Hella",
+        "location": "Orbis: Old Man's House"
+    },
+    {
+        "name": "Hellin",
+        "location": "Leafre: Forest of the Priest"
+    },
+    {
+        "name": "Helpful Summoned Monster",
+        "location": ""
+    },
+    {
+        "name": "Hen",
+        "location": "Utah's House: Front Yard"
+    },
+    {
+        "name": "Henesys Forest",
+        "location": "Henesys: The Hill North of Henesys"
+    },
+    {
+        "name": "Henesys Maple TV",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Henriete",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Hera",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Heracle",
+        "location": "Orbis: Guild Headquarters <Hall of Fame>"
+    },
+    {
+        "name": "Hersha",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Hid",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Hidden Brick",
+        "location": ""
+    },
+    {
+        "name": "Hidden Rock",
+        "location": "El Nath: Ice Valley II (multiple)"
+    },
+    {
+        "name": "High Priest John",
+        "location": "Amoria"
+    },
+    {
+        "name": "Hikari",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Hikekuro",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Hill",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Hiver",
+        "location": ""
+    },
+    {
+        "name": "Holy Stone",
+        "location": "Hidden Street: Holy Ground at the Snowfield"
+    },
+    {
+        "name": "Hongbu",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Honorable Rock",
+        "location": "El Nath (multiple)"
+    },
+    {
+        "name": "Hoony",
+        "location": "Omega Sector: Boswell Field III"
+    },
+    {
+        "name": "Hotel Receptionist",
+        "location": "Sleepywood: Sleepywood Hotel"
+    },
+    {
+        "name": "Hoya",
+        "location": "Neo City: <Year 2230> Dangerous Tower Lobby"
+    },
+    {
+        "name": "Huckle",
+        "location": "Orbis: Orbis Tower <Hidden Room>"
+    },
+    {
+        "name": "Hughes the Fuse",
+        "location": "Orbis Tower <Hugh's Laboratory>"
+    },
+    {
+        "name": "Hui Ting",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Humanoid A",
+        "location": "Sunset Road: Magatia"
+    },
+    {
+        "name": "Hurliza",
+        "location": "Malaysia: Outskirt of Muddy Banks"
+    },
+    {
+        "name": "Hyottoko",
+        "location": "Zipangu: Inside the Castle Gate"
+    },
+    {
+        "name": "Icarus",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Icebyrd Slimm",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Ifia",
+        "location": "Lion King's Castle: Roof of the Fifth Tower (multiple)"
+    },
+    {
+        "name": "Ilji",
+        "location": ""
+    },
+    {
+        "name": "Incomplete Magic Square",
+        "location": "Zenumist Research Institute: Lab - Unit 202"
+    },
+    {
+        "name": "Inkwell",
+        "location": ""
+    },
+    {
+        "name": "Insignificant Being",
+        "location": "Cursed Temple: Another Door"
+    },
+    {
+        "name": "Intern Shakihands",
+        "location": "Amoria"
+    },
+    {
+        "name": "Irena",
+        "location": "Ereve"
+    },
+    {
+        "name": "Irene",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Isa the Station Guide",
+        "location": "Orbis: Orbis Station Enterence"
+    },
+    {
+        "name": "Isabella",
+        "location": "Neo City: <Year 2216> Ruined City Construction Site"
+    },
+    {
+        "name": "Ishirasu",
+        "location": "Zipangu: Castle Corridor [11]"
+    },
+    {
+        "name": "Ito",
+        "location": "Leafre"
+    },
+    {
+        "name": "J",
+        "location": ""
+    },
+    {
+        "name": "J",
+        "location": ""
+    },
+    {
+        "name": "J.J.",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Jack",
+        "location": "The Nautilus: Top Floor - Hallway"
+    },
+    {
+        "name": "Jack",
+        "location": "Crimsonwood Mountain: Cavern of Pain (multiple)"
+    },
+    {
+        "name": "Jack Masque",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Jacob",
+        "location": "Amoria"
+    },
+    {
+        "name": "Jade",
+        "location": "El Nath"
+    },
+    {
+        "name": "Jake",
+        "location": "Kerning City Subway: Subway Ticketing Booth"
+    },
+    {
+        "name": "James",
+        "location": "Mushroom Castle: The Last Castle Tower"
+    },
+    {
+        "name": "Jane",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Jane Doe",
+        "location": "Kerning City: Naora Hospital"
+    },
+    {
+        "name": "Janken",
+        "location": "Zipangu: Mushroom Shrine"
+    },
+    {
+        "name": "Jano",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "Jasmin",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Jay",
+        "location": "Henesys"
+    },
+    {
+        "name": "Jean",
+        "location": "Lith Harbor: Lith Harbor (multiple)"
+    },
+    {
+        "name": "Jeff",
+        "location": "El Nath: Ice Valley II"
+    },
+    {
+        "name": "Jenn",
+        "location": "Lion King's Castle: First Tower"
+    },
+    {
+        "name": "Jenn's Brother",
+        "location": "Lion King's Castle: Dangerous Roof of the First Tower"
+    },
+    {
+        "name": "Jenn's Brother",
+        "location": ""
+    },
+    {
+        "name": "Jerry",
+        "location": "Sunset Road: Magatia"
+    },
+    {
+        "name": "Jimmy",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Jin Jia",
+        "location": "Zipangu: Mushroom Shrine"
+    },
+    {
+        "name": "Jin Jin",
+        "location": ""
+    },
+    {
+        "name": "Jiyur",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "JM From tha Streetz",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Joe",
+        "location": "Haunted House: Piano Room [2]"
+    },
+    {
+        "name": "Joel",
+        "location": "Victoria Road: Ellinia Station"
+    },
+    {
+        "name": "John",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "John Barricade",
+        "location": "Bigger Ben: Lobby"
+    },
+    {
+        "name": "John's Box",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Johnson",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Joko",
+        "location": "Phantom Forest: Dead Man's Gorge"
+    },
+    {
+        "name": "Jonas",
+        "location": "Haunted House: Toy Workshop"
+    },
+    {
+        "name": "Jonas Prendergast",
+        "location": ""
+    },
+    {
+        "name": "Jr. Officer Medin",
+        "location": "Omega Sector"
+    },
+    {
+        "name": "Juliet",
+        "location": "Magatia: Alcadno - Hidden Room"
+    },
+    {
+        "name": "Julius Styleman",
+        "location": "Amoria"
+    },
+    {
+        "name": "Jun",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "June",
+        "location": ""
+    },
+    {
+        "name": "Kamedeya",
+        "location": "Zipangu: Outside Ninja Castle"
+    },
+    {
+        "name": "Kanderune",
+        "location": "Elin Forest: Boulder Mountain Entrance"
+    },
+    {
+        "name": "Karcasa",
+        "location": "The Burning Sands: Tent of the Entertainers"
+    },
+    {
+        "name": "Karen",
+        "location": ""
+    },
+    {
+        "name": "Karl",
+        "location": "Henesys: Henesys Weapon Store"
+    },
+    {
+        "name": "Kate",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Kay",
+        "location": "Omega Sector: Silo"
+    },
+    {
+        "name": "Kedrick",
+        "location": ""
+    },
+    {
+        "name": "Keeny",
+        "location": "Sunset Road: Magatia"
+    },
+    {
+        "name": "Kelvin",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Ken",
+        "location": "Neo City: <Year 2216> Ruined City Intersection"
+    },
+    {
+        "name": "Kenta",
+        "location": "Aquarium: Zoo"
+    },
+    {
+        "name": "Keol",
+        "location": "Magatia: Weapon & Armor Shop"
+    },
+    {
+        "name": "Kerning City Maple TV",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Kerny",
+        "location": ""
+    },
+    {
+        "name": "Keroben",
+        "location": "Leafre: Cave of Life - Entrance"
+    },
+    {
+        "name": "Kevin the Soldier",
+        "location": "Omega Sector"
+    },
+    {
+        "name": "Kia",
+        "location": "Forest of Beginning 5"
+    },
+    {
+        "name": "Kidan",
+        "location": "Knights Chamber"
+    },
+    {
+        "name": "Kiku",
+        "location": ""
+    },
+    {
+        "name": "Killer Spore Potion",
+        "location": ""
+    },
+    {
+        "name": "Kimu",
+        "location": "Forest of Beginning 2"
+    },
+    {
+        "name": "King Pepe",
+        "location": "Mushroom Castle: Wedding Hall"
+    },
+    {
+        "name": "Kino Konoko",
+        "location": "Zipangu: Mushroom Shrine"
+    },
+    {
+        "name": "Kinu",
+        "location": "Forest of Beginning 4"
+    },
+    {
+        "name": "Kiridu",
+        "location": "Empress' Road: Kiridu's Hatchery"
+    },
+    {
+        "name": "Kiriko",
+        "location": ""
+    },
+    {
+        "name": "Kiriru",
+        "location": "Sky Ferry"
+    },
+    {
+        "name": "Kirium",
+        "location": "Ereve"
+    },
+    {
+        "name": "Kiriwing",
+        "location": "Ereve"
+    },
+    {
+        "name": "Kiriyu",
+        "location": "Ereve"
+    },
+    {
+        "name": "Kiru",
+        "location": "Sky Ferry"
+    },
+    {
+        "name": "Kisha",
+        "location": "A path out of the Forest of Beginning"
+    },
+    {
+        "name": "Kizan",
+        "location": "Forest of Beginning 3"
+    },
+    {
+        "name": "Knocked Trash Can",
+        "location": "Swamp Region: Hut in the Swamp"
+    },
+    {
+        "name": "Kok Hua",
+        "location": "Malaysia: Trend Zone Metropolis"
+    },
+    {
+        "name": "Kong Ji",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Konpei",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Korean Folk Town Maple TV",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Korin",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Koscu",
+        "location": "Leafre"
+    },
+    {
+        "name": "Kriel the Fairy",
+        "location": "Orbis"
+    },
+    {
+        "name": "Kubo the Storageman",
+        "location": "Omega Sector: Silo"
+    },
+    {
+        "name": "Kumo",
+        "location": "Leafre"
+    },
+    {
+        "name": "Kwan",
+        "location": "Verne Mine: Shaft Entrance 1"
+    },
+    {
+        "name": "Kyle",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Kyrin",
+        "location": "The Nautilus: Navigation Room (multiple)"
+    },
+    {
+        "name": "Lady Syl",
+        "location": "Victoria Road: Lady Syl's Room"
+    },
+    {
+        "name": "Lakelis",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Lala",
+        "location": "Kerning Square: Kerning Square Lobby"
+    },
+    {
+        "name": "Lam",
+        "location": "Malaysia: Kampung Village"
+    },
+    {
+        "name": "Lan Ming",
+        "location": "Herb Town"
+    },
+    {
+        "name": "Lana",
+        "location": "Kerning Square: Kerning Square Lobby"
+    },
+    {
+        "name": "Lara",
+        "location": ""
+    },
+    {
+        "name": "Laya",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Lazy Daisy",
+        "location": "Maple 7th Day Market"
+    },
+    {
+        "name": "Le Petit Prince",
+        "location": "The Burning Sands: Dry Desert"
+    },
+    {
+        "name": "Le Tierre",
+        "location": "Verne Mine: Power Plant Lobby"
+    },
+    {
+        "name": "Lea",
+        "location": "Orbis: Guild Headquarters <Hall of Fame>"
+    },
+    {
+        "name": "Lea",
+        "location": ""
+    },
+    {
+        "name": "Legor",
+        "location": "Leafre: Forest of the Priest"
+    },
+    {
+        "name": "Len the Fairy",
+        "location": "Ellinia: Ellinia Department Store"
+    },
+    {
+        "name": "Lena",
+        "location": "Maple 7th Day Market"
+    },
+    {
+        "name": "Lenario",
+        "location": "Orbis: Guild Headquarters <Hall of Fame>"
+    },
+    {
+        "name": "Leonore",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Lila",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Lilin",
+        "location": "Snow Island: Rien"
+    },
+    {
+        "name": "Lilishu",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Lily",
+        "location": "A Day in the Future: Energy Laboratory [2]"
+    },
+    {
+        "name": "Lion King Guardian Statue",
+        "location": "Lion King's Castle: Audience Room Corridor (multiple)"
+    },
+    {
+        "name": "Lira",
+        "location": ""
+    },
+    {
+        "name": "Lisa",
+        "location": "Orbis"
+    },
+    {
+        "name": "Lita Lawless",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Lith Harbor Maple TV",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Little Beak",
+        "location": "Black Wing Territory: Edelstein (multiple)"
+    },
+    {
+        "name": "Little Suzy",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Lockers",
+        "location": "Kerning City Subway: Kerning Square Station"
+    },
+    {
+        "name": "Loha",
+        "location": "Elin Forest: Altaire Camp"
+    },
+    {
+        "name": "Lohd",
+        "location": "Elin Forest: Mushroom Hill Entrance"
+    },
+    {
+        "name": "Lord Jonathan",
+        "location": "The Nautilus: Lord Jonathan's Room"
+    },
+    {
+        "name": "Lost Crewman",
+        "location": "Chimney Tree: Chimney Tree Top (multiple)"
+    },
+    {
+        "name": "Lost Kid",
+        "location": "Black Road: Dead End Forest"
+    },
+    {
+        "name": "Lost Soldier",
+        "location": "Ludibrium: Eos Tower 94th Floor"
+    },
+    {
+        "name": "Lucas",
+        "location": "Rainbow Street: Amherst"
+    },
+    {
+        "name": "Lucci",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Lucy",
+        "location": "Rainbow Street: Amherst Department Store"
+    },
+    {
+        "name": "Luden",
+        "location": "Lion King's Castle: Fourth Tower (multiple)"
+    },
+    {
+        "name": "Ludibrium Maple TV",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Ludmilla",
+        "location": ""
+    },
+    {
+        "name": "Lukan",
+        "location": "Phantom Forest: Phantom Road"
+    },
+    {
+        "name": "Luke",
+        "location": "Port Road: Six Path Crossway"
+    },
+    {
+        "name": "Lumi",
+        "location": "Victoria Road: The Secret Garden Basement"
+    },
+    {
+        "name": "Lumi",
+        "location": ""
+    },
+    {
+        "name": "Luna",
+        "location": "Henesys: Henesys Department Store"
+    },
+    {
+        "name": "Lung Tup",
+        "location": "Maple 7th Day Market"
+    },
+    {
+        "name": "Mac the Mechanic",
+        "location": "Ludibrium: Toy Factory <Process 2> Zone 4"
+    },
+    {
+        "name": "Mad Bunny",
+        "location": "Orbis"
+    },
+    {
+        "name": "Maed",
+        "location": "Magatia: Alcadno Society"
+    },
+    {
+        "name": "Maestro Rho",
+        "location": "Kerning Square: Kerning Square Lobby"
+    },
+    {
+        "name": "Magician Job Instructor",
+        "location": "Cursed Forest: Polluted Tree"
+    },
+    {
+        "name": "Magician Statue",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Maha",
+        "location": "Snow Island: Rien"
+    },
+    {
+        "name": "Mai",
+        "location": "Maple Road: Entrance to Adventurer Training Center"
+    },
+    {
+        "name": "Maid",
+        "location": "Haunted House: Foyer"
+    },
+    {
+        "name": "Malady",
+        "location": ""
+    },
+    {
+        "name": "Manager Karl",
+        "location": "Ludibrium: Toy Factory <Main Process 1>"
+    },
+    {
+        "name": "Mani",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Manji",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Maple Administrator",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Maple Claws",
+        "location": ""
+    },
+    {
+        "name": "Maple Mailbox",
+        "location": ""
+    },
+    {
+        "name": "Mar the Fairy",
+        "location": "Hidden Street: Marr's Forest"
+    },
+    {
+        "name": "Marcel",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Maria",
+        "location": "Rainbow Street: Amherst"
+    },
+    {
+        "name": "Marione",
+        "location": "Floating Island of Chryse: Chryse Hideout"
+    },
+    {
+        "name": "Mariwaka",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Marshall",
+        "location": "Kerning Square: Kerning Square Lobby"
+    },
+    {
+        "name": "Martin",
+        "location": "Orbis"
+    },
+    {
+        "name": "Masked Gentleman",
+        "location": ""
+    },
+    {
+        "name": "Mason the Collector",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Masquerade Invitation",
+        "location": ""
+    },
+    {
+        "name": "Master Bowman",
+        "location": "Crimsonwood Keep: Courtyard (multiple)"
+    },
+    {
+        "name": "Master Goblin",
+        "location": ""
+    },
+    {
+        "name": "Master Loong",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Master Mage",
+        "location": "Crimsonwood Keep: Courtyard (multiple)"
+    },
+    {
+        "name": "Master Moon Bunny",
+        "location": "Hidden Street: Lunar World"
+    },
+    {
+        "name": "Master Pirate",
+        "location": "Crimsonwood Keep: Courtyard (multiple)"
+    },
+    {
+        "name": "Master Sergeant Fox",
+        "location": "El Nath"
+    },
+    {
+        "name": "Master Thief",
+        "location": "Crimsonwood Keep: Courtyard (multiple)"
+    },
+    {
+        "name": "Master Warrior",
+        "location": "Crimsonwood Keep: Courtyard (multiple)"
+    },
+    {
+        "name": "Matada",
+        "location": "Leafre: The Forest That Disappeared"
+    },
+    {
+        "name": "Matthias",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Max",
+        "location": "Leafre"
+    },
+    {
+        "name": "May",
+        "location": "Neo City: <Year 2215> Bombed City Center Retail District"
+    },
+    {
+        "name": "Maya",
+        "location": "Henesys: Maya's House"
+    },
+    {
+        "name": "Mayoren",
+        "location": "Elin Forest: Altaire Camp"
+    },
+    {
+        "name": "Mazra",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Mel",
+        "location": "Ludibrium: Ludibrium Ticketing Place"
+    },
+    {
+        "name": "Mel Nomie",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Melias",
+        "location": "Aquarium: Department Store"
+    },
+    {
+        "name": "Memory Keeper",
+        "location": "Time Lane: Memory Keeper's Room"
+    },
+    {
+        "name": "Message from Shammos",
+        "location": "Ice Ravine: Ancient Ice Cave"
+    },
+    {
+        "name": "Metal Bucket Snowman",
+        "location": ""
+    },
+    {
+        "name": "Meteorite 1",
+        "location": "Omega Sector: Kulan Field I"
+    },
+    {
+        "name": "Meteorite 2",
+        "location": "Omega Sector: Kulan Field III"
+    },
+    {
+        "name": "Meteorite 3",
+        "location": "Omega Sector: Kulan Field IV"
+    },
+    {
+        "name": "Meteorite 4",
+        "location": "Omega Sector: Kulan Field II"
+    },
+    {
+        "name": "Meteorite 5",
+        "location": "Hidden Street: Barnard Field"
+    },
+    {
+        "name": "Meteorite 6",
+        "location": "Omega Sector: Kulan Field V"
+    },
+    {
+        "name": "Mia",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "Michael",
+        "location": "Floating Island of Chryse: Chryse Hideout"
+    },
+    {
+        "name": "Michaela",
+        "location": "Floating Island of Chryse: Chryse Hideout"
+    },
+    {
+        "name": "Midori",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Mihile",
+        "location": "Ereve"
+    },
+    {
+        "name": "Mike",
+        "location": "Warning Street: Perion Dungeon Entrance"
+    },
+    {
+        "name": "Miki",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Milla",
+        "location": ""
+    },
+    {
+        "name": "Mina",
+        "location": "Lith Harbor: Lith Harbor General Store"
+    },
+    {
+        "name": "Mini",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Mino the Owner",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Mir",
+        "location": ""
+    },
+    {
+        "name": "Miranda",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Miru",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Misky",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Missing Photo",
+        "location": ""
+    },
+    {
+        "name": "Miyu",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Mo",
+        "location": "Phantom Forest: Dead Man's Gorge"
+    },
+    {
+        "name": "Moira",
+        "location": "Leafre: Cave of Life - Entrance"
+    },
+    {
+        "name": "Moki",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Mom and Dad",
+        "location": "Amoria: Meet the Parents"
+    },
+    {
+        "name": "Momoyo",
+        "location": "Zipangu: Locker Room (M) / Locker Room (F)"
+    },
+    {
+        "name": "Mong from Kong",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Monstrous Looking Statue",
+        "location": "Hidden Street: Puppeteer's Secret Passage"
+    },
+    {
+        "name": "Moodie",
+        "location": "Leafre"
+    },
+    {
+        "name": "Moon Bunny the Salesman",
+        "location": "Hidden Street: Lunar World"
+    },
+    {
+        "name": "Moonstone Grave",
+        "location": "MesoGears: Ice Chamber"
+    },
+    {
+        "name": "Moony",
+        "location": "Amoria"
+    },
+    {
+        "name": "Moppie",
+        "location": "Orbis"
+    },
+    {
+        "name": "Moren",
+        "location": "Magatia: Weapon & Armor Shop"
+    },
+    {
+        "name": "Morgan",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Mos",
+        "location": "Leafre"
+    },
+    {
+        "name": "Mr. Bouffon",
+        "location": "Ludibrium: Path of Time"
+    },
+    {
+        "name": "Mr. Do",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Mr. Goldstein",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Mr. Gong",
+        "location": "Herb Town"
+    },
+    {
+        "name": "Mr. Hong",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Mr. Hwang",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Mr. Kim",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Mr. Kit Kat",
+        "location": ""
+    },
+    {
+        "name": "Mr. Ku",
+        "location": "Herb Town"
+    },
+    {
+        "name": "Mr. Lee",
+        "location": "Henesys: Henesys Park"
+    },
+    {
+        "name": "Mr. Lim",
+        "location": "Hidden Street: Abandoned Subway Station"
+    },
+    {
+        "name": "Mr. Mohammed",
+        "location": "El Nath: El Nath Market"
+    },
+    {
+        "name": "Mr. Moneybags",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Mr. Noh",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Mr. Oh",
+        "location": "Sleepywood: Sleepywood"
+    },
+    {
+        "name": "Mr. Oh",
+        "location": "Maple 7th Day Market"
+    },
+    {
+        "name": "Mr. Pan",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Mr. Park",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Mr. Pickall",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Mr. Sandman",
+        "location": "Amoria"
+    },
+    {
+        "name": "Mr. Shim",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Mr. Smith",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Mr. Sweatbottom",
+        "location": "Sleepywood: Sleepywood"
+    },
+    {
+        "name": "Mr. Thunder",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Mr. Wang",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Mr. Wetbottom",
+        "location": "Dungeon: VIP Sauna"
+    },
+    {
+        "name": "Mr. Yoo",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Mrs. Claus",
+        "location": ""
+    },
+    {
+        "name": "Mrs. Ming Ming",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Mrs. Reade",
+        "location": "The Nautilus: Top Floor - Hallway"
+    },
+    {
+        "name": "Ms. Tan",
+        "location": "Henesys: Henesys Skin-Care"
+    },
+    {
+        "name": "Ms. Tang",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Mu Gong",
+        "location": ""
+    },
+    {
+        "name": "Mu Lung Dojo Bulletin Board",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "Mu Lung Maple TV",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Mu Tan",
+        "location": "Herb Town"
+    },
+    {
+        "name": "Mu Young",
+        "location": "Balrog Temple: Bottom of the Temple (multiple)"
+    },
+    {
+        "name": "Mue",
+        "location": "Leafre: Station Entrance"
+    },
+    {
+        "name": "Muhamad",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "Muirhat",
+        "location": "The Nautilus: Top Floor - Hallway"
+    },
+    {
+        "name": "Murt",
+        "location": "Lion King's Castle: Second Tower"
+    },
+    {
+        "name": "Muscat-2000",
+        "location": "Verne Mine: Power Plant Security"
+    },
+    {
+        "name": "Muse",
+        "location": "Aquarium: Zoo"
+    },
+    {
+        "name": "Mushking",
+        "location": "Mushroom Castle: Mushroom Forest Field"
+    },
+    {
+        "name": "Mushroom Shine Maple TV",
+        "location": "Zipangu: Mushroom Shrine"
+    },
+    {
+        "name": "Mushroom Soldier",
+        "location": ""
+    },
+    {
+        "name": "Mutu",
+        "location": ""
+    },
+    {
+        "name": "MY Maple TV",
+        "location": "Malaysia: Trend Zone Metropolis"
+    },
+    {
+        "name": "Mysterie",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Mysterious Graffiti",
+        "location": ""
+    },
+    {
+        "name": "Mysterious Piece of Paper",
+        "location": "Drake Cave: Sunless Area"
+    },
+    {
+        "name": "Mysterious Statue",
+        "location": "Sleepywood: Sleepywood"
+    },
+    {
+        "name": "Nagare",
+        "location": "Zipangu: Inside the Castle Gate"
+    },
+    {
+        "name": "Nalo",
+        "location": "Neo City: <Year 2230> Dangerous Tower Emergency Exit"
+    },
+    {
+        "name": "Nameless",
+        "location": ""
+    },
+    {
+        "name": "Nana (E)",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Nana (H)",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Nana (K)",
+        "location": "Kerning City: Kerning City (multiple)"
+    },
+    {
+        "name": "Nana (L)",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Nana (O)",
+        "location": "Orbis"
+    },
+    {
+        "name": "Nana (P)",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Nanuke",
+        "location": "Aqua Road: Snowy Whale's Island"
+    },
+    {
+        "name": "Naosuke",
+        "location": "Zipangu: Castle Corridor [12]"
+    },
+    {
+        "name": "Nara",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Naran",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Natalie",
+        "location": "Henesys: Henesys Hair Salon"
+    },
+    {
+        "name": "Natasha",
+        "location": "Lith Harbor: Lith Harbor Armor Store"
+    },
+    {
+        "name": "Nautilus' Mid-Sized Taxi",
+        "location": "Nautilus: Nautilus Harbor"
+    },
+    {
+        "name": "Neinheart",
+        "location": "Ereve"
+    },
+    {
+        "name": "Nella",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Nemi",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Nerbit",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Neri the Fairy",
+        "location": "Orbis"
+    },
+    {
+        "name": "Neru",
+        "location": "Ludibrium: Ludibrium Pet Walkway"
+    },
+    {
+        "name": "Neve",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "News Stand",
+        "location": ""
+    },
+    {
+        "name": "Nicholas",
+        "location": "Amoria"
+    },
+    {
+        "name": "Nina",
+        "location": "Maple Road: Snail Field of Flowers"
+    },
+    {
+        "name": "Nix",
+        "location": "Hidden Street: Isolated Forest"
+    },
+    {
+        "name": "NLC Maple TV",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "NLC Taxi",
+        "location": "Phantom Forest: Haunted House (multiple)"
+    },
+    {
+        "name": "No Gong",
+        "location": "Mu Lung: Mu Lung Temple"
+    },
+    {
+        "name": "Noel",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Noi",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Nolbu",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Noma",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Norman",
+        "location": "Leafre: Entrance to Sky Nest"
+    },
+    {
+        "name": "Norrington",
+        "location": "Sea of Fog: Shipwrecked Ghost Ship (multiple)"
+    },
+    {
+        "name": "Nuri",
+        "location": "Malaysia: Hibiscus Road 2"
+    },
+    {
+        "name": "Nuri the Fairy",
+        "location": "Orbis"
+    },
+    {
+        "name": "Oannes",
+        "location": "Aquarium: Department Store"
+    },
+    {
+        "name": "Ogard",
+        "location": ""
+    },
+    {
+        "name": "Olaf",
+        "location": "Lith Harbor: Lith Harbor (multiple)"
+    },
+    {
+        "name": "Old Bow",
+        "location": "Victoria Road: The Tree That Grew III"
+    },
+    {
+        "name": "Old Brooch",
+        "location": ""
+    },
+    {
+        "name": "Old Man Tom",
+        "location": ""
+    },
+    {
+        "name": "Old Newspaper",
+        "location": ""
+    },
+    {
+        "name": "Olivia",
+        "location": "Phantom Forest: Haunted House"
+    },
+    {
+        "name": "Olson the Toy Soldier",
+        "location": "Ludibrium: Eos Tower 100th Floor"
+    },
+    {
+        "name": "Omega Sector Maple TV",
+        "location": "Omega Sector"
+    },
+    {
+        "name": "Orbis Magic Spot",
+        "location": "Orbis: Orbis Tower <20th floor>"
+    },
+    {
+        "name": "Orbis Maple TV",
+        "location": "Orbis"
+    },
+    {
+        "name": "OS3A Machine",
+        "location": "Some Day in the Present: Underground Passage Entrance"
+    },
+    {
+        "name": "OS4 Shuttle",
+        "location": "Some Day in the Present: OSSS Secret Base (multiple)"
+    },
+    {
+        "name": "Oz",
+        "location": "Ereve"
+    },
+    {
+        "name": "Palanquin",
+        "location": "Zipangu: Outside Ninja Castle"
+    },
+    {
+        "name": "Pam",
+        "location": "Leafre"
+    },
+    {
+        "name": "Pan",
+        "location": "Maple Road: Southperry Armor Store"
+    },
+    {
+        "name": "Papulatus",
+        "location": "Hidden Street: Origin of the Clock Tower"
+    },
+    {
+        "name": "Parwen",
+        "location": "Hidden Street: Authorized Personnel Only"
+    },
+    {
+        "name": "Pason",
+        "location": "Beach: White Wave Harbor"
+    },
+    {
+        "name": "Pata",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Patricia",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Pedro",
+        "location": "El Nath: Chief's Residence"
+    },
+    {
+        "name": "Perion Maple TV",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Perion Warning Post",
+        "location": "North Rocky Mountain: Dusty Wind Hill (multiple)"
+    },
+    {
+        "name": "Perzen",
+        "location": "Elin Forest: Altaire Camp"
+    },
+    {
+        "name": "Peter",
+        "location": "Maple Road: In a Small Forest"
+    },
+    {
+        "name": "Phil",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Phyllia",
+        "location": "Sunset Road: Magatia"
+    },
+    {
+        "name": "Pi",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Pia",
+        "location": "Henesys: Henesys Park"
+    },
+    {
+        "name": "Piece of Statue",
+        "location": "El Nath: Ice Valley II"
+    },
+    {
+        "name": "Piglet",
+        "location": "Hidden Street: Lush Forest"
+    },
+    {
+        "name": "Pila Present",
+        "location": "Amoria"
+    },
+    {
+        "name": "Pink Mesoranger",
+        "location": "Omega Sector: Boswell Field II"
+    },
+    {
+        "name": "Pio",
+        "location": "Rainbow Street: Amherst"
+    },
+    {
+        "name": "Pirate Statue",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Pison",
+        "location": "Florina Beach: A Look-Out Shed Around the Beach"
+    },
+    {
+        "name": "Plastic Roy",
+        "location": ""
+    },
+    {
+        "name": "Platform Usher",
+        "location": "Orbis"
+    },
+    {
+        "name": "Policeman",
+        "location": "Neo City: <Year 2099> Midnight Harbor Entrance"
+    },
+    {
+        "name": "Pong",
+        "location": "Golden Temple : Sanctuary of Evil (multiple)"
+    },
+    {
+        "name": "Poni Chai",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Popo",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Porchay",
+        "location": "The Nautilus: Generator Room"
+    },
+    {
+        "name": "Porter",
+        "location": "Omega Sector: Command Center"
+    },
+    {
+        "name": "Potter",
+        "location": "Herb Town (multiple)"
+    },
+    {
+        "name": "Power B. Fore [Bowman]",
+        "location": "Victoria Road: The Hill East of Henesys"
+    },
+    {
+        "name": "Power B. Fore [Entrance to Bowman Training Center]",
+        "location": "Singing Mushroom Forest: Spore Hill"
+    },
+    {
+        "name": "Power B. Fore [Entrance to Magician Training Center]",
+        "location": "Chimney Tree: Close to the Wind"
+    },
+    {
+        "name": "Power B. Fore [Entrance to Pirate Training Center]",
+        "location": "Beach: Coastal Forest"
+    },
+    {
+        "name": "Power B. Fore [Entrance to Thief Training Center]",
+        "location": "Construction Site: Caution Falling Down"
+    },
+    {
+        "name": "Power B. Fore [Entrance to Warrior Training Center]",
+        "location": "North Rocky Mountain: Perion Northern Ridge"
+    },
+    {
+        "name": "Power B. Fore [Magician]",
+        "location": ""
+    },
+    {
+        "name": "Power B. Fore [Pirate]",
+        "location": "Victoria Road: On the Way to the Harbor"
+    },
+    {
+        "name": "Power B. Fore [Thief]",
+        "location": "Victoria Road: Kerning City Construction Site"
+    },
+    {
+        "name": "Power B. Fore [Warrior]",
+        "location": "Victoria Road: Perion Street Corner"
+    },
+    {
+        "name": "Prince Giuseppe",
+        "location": "Mushroom Castle: Wedding Hall"
+    },
+    {
+        "name": "Principal Researcher Bass",
+        "location": "Some Day in the Present: OSSS Secret Base Laboratory"
+    },
+    {
+        "name": "Professor Foxwit",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Public Phone",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "Pucci",
+        "location": "Snow Island: Rien"
+    },
+    {
+        "name": "Pudin",
+        "location": "Snow Island: Palace of the Master"
+    },
+    {
+        "name": "Puen",
+        "location": ""
+    },
+    {
+        "name": "Puir",
+        "location": ""
+    },
+    {
+        "name": "Puka",
+        "location": ""
+    },
+    {
+        "name": "Puno",
+        "location": "Snow Island: Rien"
+    },
+    {
+        "name": "Puo",
+        "location": ""
+    },
+    {
+        "name": "Pupa",
+        "location": "Nautilus: Nautilus Harbor"
+    },
+    {
+        "name": "Puri Puri",
+        "location": "Snow Island: Rien"
+    },
+    {
+        "name": "Puro",
+        "location": "Snow Island: Penguin Port"
+    },
+    {
+        "name": "Puro [2]",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Puro [3]",
+        "location": ""
+    },
+    {
+        "name": "Puro [4]",
+        "location": ""
+    },
+    {
+        "name": "Purun",
+        "location": ""
+    },
+    {
+        "name": "Pusla",
+        "location": "Snow Island: Rien"
+    },
+    {
+        "name": "Pusla",
+        "location": ""
+    },
+    {
+        "name": "Putzki",
+        "location": ""
+    },
+    {
+        "name": "Rael",
+        "location": "Florina Beach: A Look-Out Shed Around the Beach"
+    },
+    {
+        "name": "Rain",
+        "location": "Rainbow Street: Amherst"
+    },
+    {
+        "name": "Ralph the Wanderer",
+        "location": "Singapore: Boat Quay Town"
+    },
+    {
+        "name": "Ramain",
+        "location": "Magatia: Weapon & Armor Shop"
+    },
+    {
+        "name": "Randall",
+        "location": "Some Day in the Present: OSSS Secret Base (multiple)"
+    },
+    {
+        "name": "Raul the Knight",
+        "location": "Leafre: Wyvern Canyon"
+    },
+    {
+        "name": "Record Keeper",
+        "location": "Time Lane: Record Keeper's Room"
+    },
+    {
+        "name": "Red Sign",
+        "location": "Ludibrium: Eos Tower 101st Floor"
+    },
+    {
+        "name": "Reef",
+        "location": "Hidden Street: The Cursed Forest"
+    },
+    {
+        "name": "Refugee",
+        "location": ""
+    },
+    {
+        "name": "Refugee [2]",
+        "location": ""
+    },
+    {
+        "name": "Refugee [3]",
+        "location": ""
+    },
+    {
+        "name": "Refugee [4]",
+        "location": ""
+    },
+    {
+        "name": "Regular Cab",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "Regular Cab at Lith Harbor",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Remi",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Rene",
+        "location": "El Nath: Chief's Residence"
+    },
+    {
+        "name": "Researcher H",
+        "location": "Some Day in the Present: Underground Passage Entrance"
+    },
+    {
+        "name": "Researcher S",
+        "location": "Some Day in the Present: OSSS Secret Base"
+    },
+    {
+        "name": "Ria",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Rice the Medic",
+        "location": "Omega Sector"
+    },
+    {
+        "name": "Richard the Sailor",
+        "location": "Aqua Road: Tae Gong's Ferry"
+    },
+    {
+        "name": "Ridley",
+        "location": "Crimsonwood Mountain: Crimsonwood Keep"
+    },
+    {
+        "name": "Riduan",
+        "location": "Malaysia: Trend Zone Metropolis"
+    },
+    {
+        "name": "Riel",
+        "location": "Florina Beach: A Look-Out Shed Around the Beach"
+    },
+    {
+        "name": "Rina",
+        "location": "Henesys: Rina's House"
+    },
+    {
+        "name": "Rinz the Assistant",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Ritaya",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Rius",
+        "location": "Elin Forest: Mossy Tree Forest Trail"
+    },
+    {
+        "name": "River",
+        "location": "Perion: Perion Weapon Store"
+    },
+    {
+        "name": "Riza the Assistant",
+        "location": "Orbis: Orbis Park"
+    },
+    {
+        "name": "Rob",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Robby Fray",
+        "location": "Kerning Square: Kerning Square Lobby"
+    },
+    {
+        "name": "Robeira",
+        "location": "El Nath: Chief's Residence"
+    },
+    {
+        "name": "Robert Holly",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Robin",
+        "location": "Maple Road: Dangerous Forest"
+    },
+    {
+        "name": "Robinson",
+        "location": "Aqua Road: Two Palm Trees"
+    },
+    {
+        "name": "Robo",
+        "location": "Zipangu: Mushroom Shrine"
+    },
+    {
+        "name": "Roca",
+        "location": "Henesys: Henesys"
+    },
+    {
+        "name": "Rock Covered in Snow",
+        "location": "El Nath: Ice Valley I"
+    },
+    {
+        "name": "Rocky the Repairman",
+        "location": "Ludibrium: Toy Factory <Main Process 2>"
+    },
+    {
+        "name": "Rodos",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Roel",
+        "location": "Florina Beach: A Look-Out Shed Around the Beach"
+    },
+    {
+        "name": "Roger",
+        "location": "Maple Road: Snail Garden"
+    },
+    {
+        "name": "Rolly",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Rolonay",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Roly-Poly 1",
+        "location": "Ludibrium: Eos Tower 99th Floor"
+    },
+    {
+        "name": "Roly-Poly 10",
+        "location": "Ludibrium: Eos Tower 2nd Floor"
+    },
+    {
+        "name": "Roly-Poly 2",
+        "location": "Ludibrium: Eos Tower 96th Floor"
+    },
+    {
+        "name": "Roly-Poly 3",
+        "location": "Ludibrium: Eos Tower 93rd Floor"
+    },
+    {
+        "name": "Roly-Poly 4",
+        "location": "Ludibrium: Eos Tower 71st - 90th Floor"
+    },
+    {
+        "name": "Roly-Poly 5",
+        "location": "Ludibrium: Eos Tower 67th Floor"
+    },
+    {
+        "name": "Roly-Poly 6",
+        "location": "Ludibrium: Eos Tower 34th Floor"
+    },
+    {
+        "name": "Roly-Poly 7",
+        "location": "Ludibrium: Eos Tower 33rd Floor"
+    },
+    {
+        "name": "Roly-Poly 8",
+        "location": "Ludibrium: Eos Tower 32nd Floor"
+    },
+    {
+        "name": "Roly-Poly 9",
+        "location": "Ludibrium: Eos Tower 4th Floor"
+    },
+    {
+        "name": "Romeo",
+        "location": "Magatia: Zenumist - Hidden Room"
+    },
+    {
+        "name": "Romi",
+        "location": "Orbis"
+    },
+    {
+        "name": "Ronnie",
+        "location": "The Tree Tunnel At the Forest Up North"
+    },
+    {
+        "name": "Roodolph",
+        "location": ""
+    },
+    {
+        "name": "Rooney",
+        "location": "El Nath"
+    },
+    {
+        "name": "Rosen",
+        "location": "Sunset Road: Magatia"
+    },
+    {
+        "name": "Rowen the Fairy",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Rozz",
+        "location": "A Day in the Future: Outskirts of Future Henesys"
+    },
+    {
+        "name": "Rudi",
+        "location": ""
+    },
+    {
+        "name": "Rumi",
+        "location": "El Nath: El Nath Market"
+    },
+    {
+        "name": "Rupi",
+        "location": ""
+    },
+    {
+        "name": "Russellon",
+        "location": "Alcadno Research Institute: Lab - Center Gate"
+    },
+    {
+        "name": "Ryden",
+        "location": ""
+    },
+    {
+        "name": "Rydole",
+        "location": "Ludibrium: Toy Factory <Aparatus Room>"
+    },
+    {
+        "name": "Sabitrama",
+        "location": "Sleepywood: Sleepywood"
+    },
+    {
+        "name": "Saeko",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "SagaT",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Sage",
+        "location": "Crimsonwood Mountain: Valley of Heroes 1 (multiple)"
+    },
+    {
+        "name": "Sakura",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Salon Seamus",
+        "location": "Amoria"
+    },
+    {
+        "name": "Sam",
+        "location": "Henesys: Henesys Weapon Store"
+    },
+    {
+        "name": "Sam",
+        "location": "Maple Road: Dangerous Forest"
+    },
+    {
+        "name": "Samuel",
+        "location": "Leafre: Forest of the Priest"
+    },
+    {
+        "name": "Sarah",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Sasuke",
+        "location": "Zipangu: Outside Ninja Castle"
+    },
+    {
+        "name": "Scadur",
+        "location": "El Nath"
+    },
+    {
+        "name": "Scarf Snowman",
+        "location": ""
+    },
+    {
+        "name": "Scarrs",
+        "location": "Mushroom Castle: Mushroom Forest Field"
+    },
+    {
+        "name": "Schegerazade",
+        "location": "Ariant Castle: King's Room"
+    },
+    {
+        "name": "Schiller",
+        "location": ""
+    },
+    {
+        "name": "Scientist Who Could Be Abducted [1]",
+        "location": ""
+    },
+    {
+        "name": "Scientist Who Could Be Abducted [2]",
+        "location": ""
+    },
+    {
+        "name": "Scientist Who Could Be Abducted [3]",
+        "location": ""
+    },
+    {
+        "name": "Scott",
+        "location": "El Nath: El Nath Market"
+    },
+    {
+        "name": "Second Eos Rock",
+        "location": "Ludibrium: Eos Tower 70th Floor"
+    },
+    {
+        "name": "Secretary of Domestic Affairs",
+        "location": "Mushroom Castle: Mushroom Forest Field"
+    },
+    {
+        "name": "Secretary of Magic",
+        "location": "Mushroom Castle: Mushroom Forest Field"
+    },
+    {
+        "name": "Sejan",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "Sen",
+        "location": "Maple Road: Mushroom Town Townstreet"
+    },
+    {
+        "name": "Senior Researcher Jett",
+        "location": "Some Day in the Present: OSSS Secret Base Laboratory"
+    },
+    {
+        "name": "Seppy",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Sera",
+        "location": "Maple Road: Mushroom Town"
+    },
+    {
+        "name": "Serabi the Fairy",
+        "location": "Ellinia: Ellinia Weapon Store"
+    },
+    {
+        "name": "Sergeant Bravo",
+        "location": "El Nath: Icy Cold Field"
+    },
+    {
+        "name": "Serryl",
+        "location": "The Nautilus: Mid Floor - Hallway"
+    },
+    {
+        "name": "Shadow",
+        "location": ""
+    },
+    {
+        "name": "Shadow Knight Rene",
+        "location": "Dragon's Nest"
+    },
+    {
+        "name": "Shadrion",
+        "location": "Elin Forest: Western Region of Mossy Tree Forest 2"
+    },
+    {
+        "name": "Shalon",
+        "location": "Singapore: Changi Airport"
+    },
+    {
+        "name": "Shaman Rock",
+        "location": "Swamp: Humid Swamp (multiple)"
+    },
+    {
+        "name": "Shaman Rock [2]",
+        "location": "Drake Cave: Cold Wind (multiple)"
+    },
+    {
+        "name": "Shammos",
+        "location": "El Nath: Shammos's Solitary Room (multiple)"
+    },
+    {
+        "name": "Shane",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Shanks",
+        "location": "Maple Road: Southperry"
+    },
+    {
+        "name": "Sharyl",
+        "location": "The Nautilus: Bottom Floor - Hallway"
+    },
+    {
+        "name": "Shati",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Shawn",
+        "location": "Victoria Road: Excavation Site <Camp>"
+    },
+    {
+        "name": "Shiba",
+        "location": "Victoria Road: The Secret Garden 1st Floor"
+    },
+    {
+        "name": "Shinsoo",
+        "location": "Ereve"
+    },
+    {
+        "name": "Shinta",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Shiny Stone",
+        "location": "The Nautilus: Generator Room"
+    },
+    {
+        "name": "Showa Maple TV",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Shuang",
+        "location": "Excavation Site: Relic Excavation Camp"
+    },
+    {
+        "name": "Shulynch",
+        "location": "The Nautilus: Training Room"
+    },
+    {
+        "name": "Shumi",
+        "location": "Kerning City: Kerning City"
+    },
+    {
+        "name": "Shuri",
+        "location": "Orbis"
+    },
+    {
+        "name": "Shururu",
+        "location": "Zipangu: Outside Ninja Castle"
+    },
+    {
+        "name": "Sid",
+        "location": "Rainbow Street: Amherst Weapon Store"
+    },
+    {
+        "name": "Silence of the Wolf",
+        "location": "Perion: Perion"
+    },
+    {
+        "name": "Silver",
+        "location": "Lith Harbor: Lith Harbor Weapon Store"
+    },
+    {
+        "name": "Simon",
+        "location": ""
+    },
+    {
+        "name": "Singapore Maple TV",
+        "location": ""
+    },
+    {
+        "name": "Sion",
+        "location": "Altaire Camp: Tent House 1"
+    },
+    {
+        "name": "Sir Blacksmith",
+        "location": "Aran's Past: Head Blacksmith's Shop"
+    },
+    {
+        "name": "Sirin",
+        "location": "Ariant: The Town of Ariant"
+    },
+    {
+        "name": "Sixx",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Skai",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Sly",
+        "location": "Leafre"
+    },
+    {
+        "name": "Small Street Light",
+        "location": "Kerning City Subway: Line 1 Area 3 (multiple)"
+    },
+    {
+        "name": "Small Tomb",
+        "location": "El Nath: Icy Cold Field"
+    },
+    {
+        "name": "Small Tree Stump",
+        "location": "Chimney Tree: Chimney Tree Top"
+    },
+    {
+        "name": "Smart Moon Bunny",
+        "location": "Hidden Street: Lunar World (multiple)"
+    },
+    {
+        "name": "Smartie",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "So Gong",
+        "location": "Mu Lung Dojo Hall"
+    },
+    {
+        "name": "So Won",
+        "location": "Herb Town"
+    },
+    {
+        "name": "Somchai",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Sophia",
+        "location": "Perion: Perion General Store"
+    },
+    {
+        "name": "Sophilia",
+        "location": "Haunted House: Sophilia's Bedroom"
+    },
+    {
+        "name": "Sorcerer",
+        "location": "Time Lane: Sorcerer's Room"
+    },
+    {
+        "name": "Spacen",
+        "location": "Omega Sector: Silo"
+    },
+    {
+        "name": "Spiegelmann",
+        "location": "Kerning City: Kerning City (multiple)"
+    },
+    {
+        "name": "Spindle",
+        "location": "Omega Sector"
+    },
+    {
+        "name": "Spinel",
+        "location": "The Burning Road: Ariant (multiple)"
+    },
+    {
+        "name": "Spirit of Snow Statue",
+        "location": "Hidden Street: Snow Soul's Resting Place"
+    },
+    {
+        "name": "Spiruna",
+        "location": "Orbis: Old Man's House"
+    },
+    {
+        "name": "Staff Sergeant Charlie",
+        "location": "Orbis"
+    },
+    {
+        "name": "Statue",
+        "location": "Orbis: Orbis Tower <8th Floor>"
+    },
+    {
+        "name": "Stephan",
+        "location": "Dry Road: Road to the Mine 1"
+    },
+    {
+        "name": "Steward",
+        "location": "Haunted House: Foyer (multiple)"
+    },
+    {
+        "name": "Stirgeman",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Strange Guy",
+        "location": "The Burning Sands: The Scorching Desert"
+    },
+    {
+        "name": "Strange Looking Statue",
+        "location": "Hidden Street: Puppeteer's Secret Passage"
+    },
+    {
+        "name": "Straw Hat Snowman",
+        "location": ""
+    },
+    {
+        "name": "Street Cat",
+        "location": ""
+    },
+    {
+        "name": "Subway Trash Can",
+        "location": "Kerning City Subway: Along the Railway"
+    },
+    {
+        "name": "Subway Worker",
+        "location": ""
+    },
+    {
+        "name": "Sunstone Grave",
+        "location": "MesoGears: Fire Chamber"
+    },
+    {
+        "name": "Sureen",
+        "location": "Singapore: Changi Airport"
+    },
+    {
+        "name": "Suri",
+        "location": "Victoria Road: The Secret Garden Basement"
+    },
+    {
+        "name": "Surl",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Suspicious Entrance",
+        "location": "Verne Mine: Dangerous Raccoon Nest"
+    },
+    {
+        "name": "Suspicious Hollow",
+        "location": ""
+    },
+    {
+        "name": "Suspicious Lava",
+        "location": "Hidden Street: Cave Within the Cave"
+    },
+    {
+        "name": "Suspicious Man",
+        "location": "Balrog Temple: Stairway to the Underground Temple"
+    },
+    {
+        "name": "Sven",
+        "location": "Gelimer Research Lab: Second Square"
+    },
+    {
+        "name": "Swallow",
+        "location": "Korean Folk Town"
+    },
+    {
+        "name": "Syras",
+        "location": "Ariant: Ariant Station Platform"
+    },
+    {
+        "name": "T-1337",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Tae Gong",
+        "location": "Aqua Road: Tae Gong's Ferry"
+    },
+    {
+        "name": "Tae Gong",
+        "location": "Maple 7th Day Market"
+    },
+    {
+        "name": "Tae Sang",
+        "location": "Mu Lung"
+    },
+    {
+        "name": "Tae Soo",
+        "location": "Mu Lung: Peach Farm 1"
+    },
+    {
+        "name": "Taeha",
+        "location": "Victoria Road: The Secret Garden Basement"
+    },
+    {
+        "name": "Taeha",
+        "location": ""
+    },
+    {
+        "name": "Taekken",
+        "location": "Zipangu: Inside the Castle Gate"
+    },
+    {
+        "name": "Taeng the Explorer",
+        "location": "Aqua Road: A Small Wrecked Ship"
+    },
+    {
+        "name": "Taggrin",
+        "location": "Phantom Forest: Dead Man's Gorge"
+    },
+    {
+        "name": "Talking Snow Man",
+        "location": ""
+    },
+    {
+        "name": "Talking Tree",
+        "location": "Way to the Forest: Shining Forest Path"
+    },
+    {
+        "name": "Tangyoon",
+        "location": "The Nautilus: Cafeteria"
+    },
+    {
+        "name": "Tara",
+        "location": "Ludibrium: Ludibrium Village"
+    },
+    {
+        "name": "Taru",
+        "location": "Zipangu: Mushroom Shrine"
+    },
+    {
+        "name": "Taxi",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Temple Keeper",
+        "location": "Time Lane: Three Doors"
+    },
+    {
+        "name": "Teo",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Tepei",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Tess",
+        "location": "Elin Forest: Altaire Camp"
+    },
+    {
+        "name": "Teyandei",
+        "location": "Zipangu: Outside Ninja Castle"
+    },
+    {
+        "name": "The Excavation Board",
+        "location": "Victoria Road: Excavation Site <Camp>"
+    },
+    {
+        "name": "The Excavator Board",
+        "location": "Excavation Site: Relic Excavation Camp"
+    },
+    {
+        "name": "The Glimmer Man",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "The Lost Grey",
+        "location": "Hidden Street: Lunar World"
+    },
+    {
+        "name": "The Lost Snipe",
+        "location": ""
+    },
+    {
+        "name": "The Rememberer",
+        "location": "Sleepywood: Sleepywood"
+    },
+    {
+        "name": "The Ticket Gate",
+        "location": "Kerning City Subway: Subway Ticketing Booth (multiple)"
+    },
+    {
+        "name": "Theme Park Owner",
+        "location": ""
+    },
+    {
+        "name": "Thief Job Instructor",
+        "location": "Swamp Region: Deep Mire"
+    },
+    {
+        "name": "Thief Statue",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Third Eos Rock",
+        "location": "Ludibrium: Eos Tower 32nd Floor"
+    },
+    {
+        "name": "Thomas Swift",
+        "location": "Amoria (multiple)"
+    },
+    {
+        "name": "Thompson",
+        "location": "Kerning Square: Kerning Square Lobby"
+    },
+    {
+        "name": "Thorn Remover",
+        "location": ""
+    },
+    {
+        "name": "Thorr",
+        "location": "Mushroom Castle: Mushroom Forest Field"
+    },
+    {
+        "name": "Tia",
+        "location": "Perion: Perion (multiple)"
+    },
+    {
+        "name": "Tian",
+        "location": "Ludibrium: Station <Orbis>"
+    },
+    {
+        "name": "Tienk",
+        "location": ""
+    },
+    {
+        "name": "Tigun",
+        "location": "Ariant: Ariant Castle"
+    },
+    {
+        "name": "Tigun the Advisor",
+        "location": "Ludibrium: Eos Tower Entrance"
+    },
+    {
+        "name": "Time Gate",
+        "location": "Tera Forest: Tera Forest Time Gate"
+    },
+    {
+        "name": "Time Machine",
+        "location": "Some Day in the Present: OSSS Secret Base Doctor Bing's Room"
+    },
+    {
+        "name": "Tina",
+        "location": "Kerning Square: Kerning Square Lobby"
+    },
+    {
+        "name": "Titan",
+        "location": "Floating Island of Chryse: Chryse Hideout"
+    },
+    {
+        "name": "Tititi",
+        "location": "Aran's Past: Razor Sharp Cliff"
+    },
+    {
+        "name": "Todd",
+        "location": "Maple Road: In a Small Forest"
+    },
+    {
+        "name": "Toly",
+        "location": "Ludibrium: Path of Time"
+    },
+    {
+        "name": "Tombstone",
+        "location": "Ludibrium: Deep Inside of Watch Tower"
+    },
+    {
+        "name": "Tombstone",
+        "location": "MesoGears: Enigma Chamber (multiple)"
+    },
+    {
+        "name": "Tommie",
+        "location": "Leafre: Station"
+    },
+    {
+        "name": "Toniza",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Tony",
+        "location": "Ludibrium"
+    },
+    {
+        "name": "Torr",
+        "location": ""
+    },
+    {
+        "name": "Tory",
+        "location": "Henesys: Henesys Park"
+    },
+    {
+        "name": "Trainer Bartos",
+        "location": "Henesys: Pet-Walking Road"
+    },
+    {
+        "name": "Trainer Frod",
+        "location": "Henesys: Pet-Walking Road"
+    },
+    {
+        "name": "Trashed Hair",
+        "location": ""
+    },
+    {
+        "name": "Treasure Box",
+        "location": "Hidden Street: Red Scorpion's Lair"
+    },
+    {
+        "name": "Treasure Chest",
+        "location": ""
+    },
+    {
+        "name": "Tree Cutter",
+        "location": "Korean Folk Town: Tiger Forest II"
+    },
+    {
+        "name": "Trina",
+        "location": "Orbis"
+    },
+    {
+        "name": "Tristan's Spirit",
+        "location": "Balrog Temple: Tristan's Tomb"
+    },
+    {
+        "name": "Tru",
+        "location": "Lith Harbor: Tru's Info Shop"
+    },
+    {
+        "name": "Trunkie",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Tsuri",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Tthaya",
+        "location": "Golden Temple : Golden Temple (multiple)"
+    },
+    {
+        "name": "Tulcus",
+        "location": "Swamp Region: Wild Crocodile Swamp"
+    },
+    {
+        "name": "Tutorial Lilin",
+        "location": ""
+    },
+    {
+        "name": "Tylus",
+        "location": "El Nath: Chief's Residence"
+    },
+    {
+        "name": "Ulrika",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Umi",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Unnamed Skeleton",
+        "location": "Gelimer Research Lab: Deep Shaft"
+    },
+    {
+        "name": "Uske",
+        "location": "Zipangu: Outside Ninja Castle"
+    },
+    {
+        "name": "Utah",
+        "location": "Hidden Street: Utah's Pig Farm"
+    },
+    {
+        "name": "Utah",
+        "location": "Utah's House: Front Yard"
+    },
+    {
+        "name": "V. Isage",
+        "location": "New Leaf City Town Street: New Leaf City - Town Center"
+    },
+    {
+        "name": "Vagabond Alchemist",
+        "location": "El Nath"
+    },
+    {
+        "name": "Valen",
+        "location": "Florina Beach: A Look-Out Shed Around the Beach"
+    },
+    {
+        "name": "Vard",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Vega",
+        "location": "Ludibrium: Eos Tower 66th Floor"
+    },
+    {
+        "name": "Vicious",
+        "location": "Henesys: Henesys Market"
+    },
+    {
+        "name": "Victoria",
+        "location": "Amoria"
+    },
+    {
+        "name": "Vikin",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Village Chief Malek",
+        "location": "Malaysia: Muddy Banks 2"
+    },
+    {
+        "name": "Violetta",
+        "location": "Mushroom Castle: Wedding Hall"
+    },
+    {
+        "name": "VIP Cab",
+        "location": "Ellinia: Ellinia (multiple)"
+    },
+    {
+        "name": "Vita",
+        "location": "Resistance Headquarters: Training Room Entrance"
+    },
+    {
+        "name": "Vivian Boutique",
+        "location": "Amoria"
+    },
+    {
+        "name": "Vogen",
+        "location": "El Nath: El Nath Market"
+    },
+    {
+        "name": "Von",
+        "location": "Dry Road: Mine Entrance (multiple)"
+    },
+    {
+        "name": "Von Leon",
+        "location": "Lion King's Castle: Depressing Audience Room"
+    },
+    {
+        "name": "Wanted: Curse Eye",
+        "location": "North Forest: Green Tree Trunk"
+    },
+    {
+        "name": "Wanted: Evil Eye",
+        "location": "North Forest: Giant Tree"
+    },
+    {
+        "name": "Wanted: G. Mushroom",
+        "location": "Singing Mushroom Forest: Spore Hill"
+    },
+    {
+        "name": "Wanted: H. Mushroom",
+        "location": "Singing Mushroom Forest: Windflower Forest"
+    },
+    {
+        "name": "Wanted: Jr. Boogie",
+        "location": "South Rocky Mountain: Perion Southern Ridge"
+    },
+    {
+        "name": "Wanted: Z. Mushroom",
+        "location": "Singing Mushroom Forest: Ghost Mushroom Forest"
+    },
+    {
+        "name": "Warrior Job Instructor",
+        "location": "Excavation Site: Excavation Intermission Area"
+    },
+    {
+        "name": "Warrior Statue",
+        "location": "Lith Harbor: Lith Harbor"
+    },
+    {
+        "name": "Wayne",
+        "location": "Amoria"
+    },
+    {
+        "name": "Weaver",
+        "location": "Ludibrium: Ludibrium Pet Walkway"
+    },
+    {
+        "name": "Wendelline",
+        "location": "Black Wing Territory: Edelstein (multiple)"
+    },
+    {
+        "name": "Wendy",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Wing the Fairy",
+        "location": "Ellinia: Ellinia"
+    },
+    {
+        "name": "Winky the Fairy",
+        "location": ""
+    },
+    {
+        "name": "Winston",
+        "location": "North Rocky Mountain: Mini Rocky Road"
+    },
+    {
+        "name": "Wisp",
+        "location": "Ludibrium: Eos Tower Entrance"
+    },
+    {
+        "name": "Witch Malady",
+        "location": "Henesys: Henesys (multiple)"
+    },
+    {
+        "name": "Wiz the Librarian",
+        "location": "Ludibrium: Helios Tower <Library>"
+    },
+    {
+        "name": "Wolf Guard",
+        "location": ""
+    },
+    {
+        "name": "Wolf Spirit Ryko",
+        "location": ""
+    },
+    {
+        "name": "Wong",
+        "location": "Verne Mine: Power Plant Security"
+    },
+    {
+        "name": "Wonky the Fairy",
+        "location": "Orbis: The Unknown Tower"
+    },
+    {
+        "name": "Wonny",
+        "location": "Black Wing Territory: Edelstein"
+    },
+    {
+        "name": "Worm Hole to the Present",
+        "location": "A Day in the Future: Outskirts of Future Henesys"
+    },
+    {
+        "name": "Xan",
+        "location": "Singapore: CBD"
+    },
+    {
+        "name": "Xinga",
+        "location": ""
+    },
+    {
+        "name": "Yai Bua",
+        "location": ""
+    },
+    {
+        "name": "Yaku",
+        "location": "Leafre"
+    },
+    {
+        "name": "Yellow King Goblin",
+        "location": "Hidden Street: Goblin House"
+    },
+    {
+        "name": "Yellow Mesoranger",
+        "location": "Omega Sector: Off-Limits"
+    },
+    {
+        "name": "YokoYoko",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Yoona",
+        "location": "Maple Road: Entrance to Adventurer Training Center"
+    },
+    {
+        "name": "Yulete",
+        "location": ""
+    },
+    {
+        "name": "Yun",
+        "location": "Victoria Road: The Secret Garden 2nd Floor"
+    },
+    {
+        "name": "Yuris",
+        "location": "Elin Forest: Altaire Camp"
+    },
+    {
+        "name": "Yuse",
+        "location": "Zipangu: Showa Town"
+    },
+    {
+        "name": "Zaid",
+        "location": "The Burning Road: Ariant"
+    },
+    {
+        "name": "Zechtok-2000",
+        "location": "Verne Mine: First Square"
+    }
+]

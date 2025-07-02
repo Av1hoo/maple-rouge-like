@@ -507,7 +507,7 @@ public class CashShop {
             ps.setInt(1, characterId);
 
             for (int sn : wishList) {
-                // TODO: batch insert
+                // TO DO: batch insert
                 ps.setInt(2, sn);
                 ps.executeUpdate();
             }

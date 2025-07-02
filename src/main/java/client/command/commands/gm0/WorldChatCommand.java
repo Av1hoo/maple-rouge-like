@@ -22,24 +22,11 @@
    @Author: Arthur L - Refactored command content into modules
 */
 package client.command.commands.gm0;
-
-import client.AccountExtraDetails;
-import client.AscensionConstants;
 import client.Character;
 import client.Client;
 import client.command.Command;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import constants.id.MapId;
 import net.server.Server;
-import tools.DatabaseConnection;
 import tools.PacketCreator;
-
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.util.ArrayList;
-import java.util.List;
-
-import static java.util.concurrent.TimeUnit.MINUTES;
 
 public class WorldChatCommand extends Command {
     {

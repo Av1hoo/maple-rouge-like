@@ -4352,12 +4352,12 @@
         <string name="s1" value="Geez... When the adventurers come back, I'm giving them a specal 50% discount. They must be having such a hard time..." />
     </imgdir>
     <imgdir name="2131000">
-        <string name="name" value="Athena Pierce" />
-        <string name="func" value="Expedition Leader" />
-        <string name="n0" value="We have neither enough food nor equipment. If we don’t use them well..." />
-        <string name="n1" value="The adventurers who left are all probably well, right?" />
-        <string name="d0" value="It's been many days since we left Ossyria to run from the Black Mage. Had it not been for World Water, it wouldn't have been possible. I'm trying to get used to Victoria Island, but it's not easy. I wonder if my hometown is safe..." />
-        <string name="d1" value="It's been many days since we left Ossyria to run from the Black Mage. Had it not been for World Water, it wouldn't have been possible. I'm trying to get used to Victoria Island, but it's not easy. I wonder if my hometown is safe..." />
+        <string name="name" value="Hagrida" />
+        <string name="func" value="House Keeper" />
+        <string name="n0" value="Ain’t no one gettin’ past me without a proper good reason, I’ll tell ya that. Everything’s fine, yer home’s safe!" />
+        <string name="n1" value="No need t’ worry about the house. Not a single footstep was heard near here, except a rabbit or two - an’ I gave ‘em a proper carrot." />
+        <string name="d0" value="Oi! Didn’t see ya there, mate! Name’s Hagrida, Hagrid's big sister, at yer service. I’ve been keepin’ an eye on yer place while you were gone, on the orders o’ Professor Dumbledore. Nothin' gets past ol' Hagrida, not even a mouse. How can I help ya today?" />
+        <string name="d1" value="Oi! Didn’t see ya there, mate! Name’s Hagrida, Hagrid's big sister, at yer service. I’ve been keepin’ an eye on yer place while you were gone, on the orders o’ Professor Dumbledore. Nothin' gets past ol' Hagrida, not even a mouse. How can I help ya today?" />
     </imgdir>
     <imgdir name="2131001">
         <string name="name" value="Perzen" />
@@ -5693,10 +5693,10 @@
         <string name="n1" value="Proof of Love is very important!" />
     </imgdir>
     <imgdir name="9201002">
-        <string name="name" value="High Priest John" />
-        <string name="func" value="Cathedral Wedding Officiator" />
-        <string name="n0" value="I oversee all Cathedral Weddings..." />
-        <string name="n1" value="if you'd like to get married in the cathedral, please speak with me as well!" />
+        <string name="name" value="Rabbi 3" />
+        <string name="func" value="Rabbi of Wedding" />
+        <string name="n0" value="I oversee all Biet-Kensset Weddings..." />
+        <string name="n1" value="if you'd like to get married in the Biet-Kensset, please speak with me as well!" />
         <string name="wedding0" value="Dearly beloved, we are gathered here today to celebrate the marriage of these two fine, upstanding people. One can clearly see the love between you two, and it's a sight I'll never tire of. You have proved your love and received your Parent's Blessing. Do you wish to seal your love in the eternal embrace of marriage?" />
         <string name="wedding1" value="Very well. Guests may now Bless the couple if they choose..." />
         <string name="wedding3" value="By the power vested in me through the mighty Maple tree, I now pronounce you Husband and Wife. You may kiss the bride!" />
@@ -7549,8 +7549,8 @@
         <string name="n2" value="Be patience~ Maplers~!" />
     </imgdir>
     <imgdir name="9900000">
-        <string name="name" value="KIN" />
-        <string name="n0" value="If you want to make the job adv. as the GM, come talk to me." />
+        <string name="name" value="Dr. Look" />
+        <string name="n0" value="Customize your look here!" />
     </imgdir>
     <imgdir name="9900001">
         <string name="name" value="NimaKIN" />

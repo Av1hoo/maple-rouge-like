@@ -4211,6 +4211,9 @@
     <canvas name="backgrnd" width="245" height="396">
       <vector name="origin" x="0" y="0"/>
     </canvas>
+    <canvas name="fish" width="221" height="179">
+      <vector name="origin" x="0" y="0"/>
+    </canvas>
     <canvas name="backgrnd2" width="305" height="396">
       <vector name="origin" x="0" y="0"/>
       <int name="z" value="0"/>

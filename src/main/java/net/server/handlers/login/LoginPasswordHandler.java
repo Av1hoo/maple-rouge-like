@@ -22,7 +22,6 @@
 package net.server.handlers.login;
 
 import client.Achievement;
-import client.AchievementConstants;
 import client.Client;
 import client.DefaultDates;
 import config.YamlConfig;

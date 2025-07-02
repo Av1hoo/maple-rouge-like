@@ -67,7 +67,6 @@ import server.SkillbookInformationProvider;
 import server.ThreadManager;
 import server.TimerManager;
 import server.expeditions.ExpeditionBossLog;
-import server.life.HourlySpawnBoostManager;
 import server.life.PlayerNPC;
 import server.quest.Quest;
 import service.NoteService;
@@ -938,9 +937,6 @@ public class Server {
         online = true;
         Duration initDuration = Duration.between(beforeInit, Instant.now());
         log.info("Cosmic is now online after {} ms.", initDuration.toMillis());
-
-        HourlySpawnBoostManager.getInstance().startHourlyBoostScheduler();
-        log.info("Hourly spawn boost scheduler started.");
 
         OpcodeConstants.generateOpcodeNames();
         CommandsExecutor.getInstance();

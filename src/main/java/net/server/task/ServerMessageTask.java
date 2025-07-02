@@ -24,7 +24,7 @@ import net.server.world.World;
 /**
  * @author Ronan
  */
-public class ServerMessageTask extends BaseTask implements Runnable {
+public class ServerMessageTask extends BaseTask {
 
     @Override
     public void run() {

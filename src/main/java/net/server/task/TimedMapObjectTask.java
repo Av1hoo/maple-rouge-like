@@ -24,7 +24,7 @@ import net.server.world.World;
 /**
  * @author Ronan
  */
-public class TimedMapObjectTask extends BaseTask implements Runnable {
+public class TimedMapObjectTask extends BaseTask {
 
     @Override
     public void run() {

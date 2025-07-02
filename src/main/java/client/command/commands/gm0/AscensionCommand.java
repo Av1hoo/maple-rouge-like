@@ -1,7 +1,6 @@
 package client.command.commands.gm0;
 
 import client.AccountExtraDetails;
-import client.Achievement;
 import client.AscensionConstants;
 import client.Character;
 import client.Client;

@@ -43,7 +43,7 @@ public class NoteService {
     }
 
     private boolean send(Note note) {
-        // TODO: handle the following cases (originally listed at PacketCreator#noteError)
+        // TO DO: handle the following cases (originally listed at PacketCreator#noteError)
         /*
          *  0 = Player online, use whisper
          *  1 = Check player's name

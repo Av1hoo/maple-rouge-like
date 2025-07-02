@@ -10,6 +10,17 @@ public class AccountExtraDetails {
     @JsonProperty("dailyQuest")// Map JSON key "daily_quest" to this field
     private DailyQuest dailyQuest;
 
+    @JsonProperty("loveLetterQuest")
+    private LoveLetterQuest loveLetterQuest;
+
+    public LoveLetterQuest getLoveLetterQuest() {
+        return loveLetterQuest;
+    }
+
+    public void setLoveLetterQuest(LoveLetterQuest loveLetterQuest) {
+        this.loveLetterQuest = loveLetterQuest;
+    }
+
     // Getters and setters
     public List<Achievement> getAchievements() {
         return achievements;

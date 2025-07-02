@@ -302,7 +302,7 @@ public final class BBSOperationHandler extends AbstractPacketHandler {
         }
 
         try (Connection con = DatabaseConnection.getConnection()) {
-            // TODO clean up this block and use try-with-resources
+            // TO DO clean up this block and use try-with-resources
             try (PreparedStatement ps = con.prepareStatement("SELECT * FROM bbs_threads WHERE guildid = ? AND " + (bIsThreadIdLocal ? "local" : "") + "threadid = ?")) {
                 ps.setInt(1, mc.getGuildId());
                 ps.setInt(2, threadid);

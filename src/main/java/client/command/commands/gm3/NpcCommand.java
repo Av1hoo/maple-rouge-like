@@ -43,7 +43,13 @@ public class NpcCommand extends Command {
             return;
         }
         NPC npc = LifeFactory.getNPC(Integer.parseInt(params[0]));
+        // if npc already in map remove it
         if (npc != null) {
+            if (player.getMap().containsNPC(npc.getId())) {
+                player.getMap().removeMapObject(npc);
+                player.getMap().broadcastMessage(PacketCreator.removeNPC(npc.getId()));
+                return;
+            }
             npc.setPosition(player.getPosition());
             npc.setCy(player.getPosition().y);
             npc.setRx0(player.getPosition().x + 50);

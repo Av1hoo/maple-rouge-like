@@ -24,7 +24,7 @@ import net.server.world.World;
 /**
  * @author Ronan
  */
-public class PetFullnessTask extends BaseTask implements Runnable {
+public class PetFullnessTask extends BaseTask {
 
     @Override
     public void run() {

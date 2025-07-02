@@ -18,11 +18,6 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-/*
-   @Author: Roey Zeldin - command to merge items and make them stronger
-
-   TODO: add Fredrick in fm as a way to merge without commands. His ID is
-*/
 package client.command.commands.gm6;
 
 import client.AscensionConstants;

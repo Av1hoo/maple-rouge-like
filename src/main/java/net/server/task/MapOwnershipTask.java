@@ -25,7 +25,7 @@ import net.server.world.World;
 /**
  * @author Ronan
  */
-public class MapOwnershipTask extends BaseTask implements Runnable {
+public class MapOwnershipTask extends BaseTask {
 
     @Override
     public void run() {

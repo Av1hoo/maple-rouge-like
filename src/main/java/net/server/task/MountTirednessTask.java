@@ -24,7 +24,7 @@ import net.server.world.World;
 /**
  * @author Ronan
  */
-public class MountTirednessTask extends BaseTask implements Runnable {
+public class MountTirednessTask extends BaseTask {
 
     @Override
     public void run() {

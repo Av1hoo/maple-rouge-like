@@ -19,8 +19,8 @@
     <int name="incDEX" value="1"/>
     <int name="incINT" value="1"/>
     <int name="incLUK" value="1"/>
-    <int name="incSpeed" value="10"/>
-    <int name="incJump" value="5"/>
+    <int name="incSpeed" value="25"/>
+    <int name="incJump" value="25"/>
     <int name="tuc" value="0"/>
     <int name="price" value="0"/>
     <int name="tradeBlock" value="1"/>

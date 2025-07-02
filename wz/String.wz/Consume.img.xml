@@ -3783,6 +3783,10 @@
     <string name="name" value="Crystal Ilbi Throwing-Stars"/>
     <string name="desc" value="A throwing star made of crystal. Once they run out, they need to be recharged.\nAttack+29"/>
   </imgdir>
+  <imgdir name="2070017">
+    <string name="name" value="Rechrage Arrows"/>
+    <string name="desc" value="Cool cool"/>
+  </imgdir>
   <imgdir name="2070018">
     <string name="name" value="Balanced Fury"/>
     <string name="desc" value="Ancient Shadowknight throwing stars made from black crystal. These can be recharged when used up.\nAttack+30"/>

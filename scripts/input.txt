@@ -1,0 +1,773 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="https://bc.hidden-street.net/npc/npc-list?page=22" />
+<link rel="shortcut icon" href="/sites/all/themes/lithharbor/favicon.ico" type="image/x-icon" />
+  <title>NPC List | MapleStory | HS.MapleGlobal</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/global.hidden-street.net/files/css/css_011aa8dc8edf7c05b2b12eb988fae29f.css" />
+  <!--[if lte IE 8]>
+    <style type="text/css">
+      body { behavior: url(/sites/all/themes/lithharbor/csshover3.htc); }
+    </style>
+  <![endif]-->
+  <!--[if lte IE 6]>
+    <style type="text/css">
+      .pngfix { behavior: url(/sites/all/themes/lithharbor/iepngfix.htc); }
+    </style>
+    <script type="text/javascript" src="/sites/all/themes/lithharbor/iepngfix-tilebg.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="/sites/global.hidden-street.net/files/js/js_98168fb25161b688e74972c8751130f7.jsmin.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": 0, "relativity": 0, "children": 0, "clone": 0, "doubleclick": 0 }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/global.hidden-street.net/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 1, "disable_zoom": 0, "force_show_nav": 0, "show_caption": true, "loop_items": 0, "node_link_text": "", "node_link_target": 0, "image_count": "", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+
+  </head>
+<body class="not-front-page not-logged-in not-admin page-npc sidebar-left-and-right">
+
+
+<div id="wrapper">
+  <div id="page">
+    <div class="clear-both"><!-- --></div>
+    
+	<div id="header">
+              <div id="logo">
+          <a href="/" title="Home" rel="home">
+            <img src="/sites/bc.hidden-street.net/files/lithharbor_logo.png" alt="Home" />
+          </a>
+        </div>
+      	  
+	  <div id="user-bar">
+	    	                <form method='post' accept-charset='UTF-8' action='/user/login'>          <div class="form-item" id="edit-name-wrapper">
+ <input type="text" maxlength="60" name="name" id="edit-name" size="60" value="" tabindex="1" title="Username:" class="form-text required" />
+</div>
+          <div class="form-item" id="edit-pass-wrapper">
+ <input type="password" name="pass" id="edit-pass"  maxlength="128"  size="60"  tabindex="2" title="Password:" class="form-text required" />
+</div>
+          <input type="hidden" name="form_id" id="edit-user-login" value="user_login"  />
+<input type="hidden" name="form_build_id" id="form-e7cc84d72b64a5013902293eb0ffe7a3" value="form-e7cc84d72b64a5013902293eb0ffe7a3"  />
+<input type="submit" name="op" id="edit-submit-2" value="Log in"  tabindex="3" class="form-submit" />
+          </form>				<script type="text/javascript">
+          $('#edit-name').example(function() {
+            return $(this).attr('title');
+          }, {className: 'not-focus'});
+		  $('#edit-pass').example(function() {
+            return $(this).attr('title');
+          }, {className: 'not-focus'});
+        </script>
+	  </div>
+	</div>
+
+	<div id="navigation">
+              <div id="primary">
+          <ul class="menu"><li class="leaf first dhtml-menu "><a href="/" title="" id="dhtml_menu-1652">Home</a></li>
+<li class="leaf  dhtml-menu "><a href="http://www.hidden-street.net/forum/forumdisplay.php?420-Guides" title="" id="dhtml_menu-165">Guides</a></li>
+<li class="leaf  dhtml-menu "><a href="http://www.hidden-street.net/forum" title="" id="dhtml_menu-166">Forum</a></li>
+<li class="leaf last dhtml-menu "><a href="http://www.hidden-street.net/guild" title="" id="dhtml_menu-167">Guild</a></li>
+</ul>        </div>
+      	          <div id="search-box">
+          <div id="block-finder-finder_3" class="block block-finder block-1 block-last clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <div id="finder-block-3" class="finder-block"><div id="finder-block-3-wrapper" class="finder-view-wrapper"><div class="finder-view-3 finder-view"><form action="/search_finder"  accept-charset="UTF-8" method="post" id="finder-form-3">
+<div><div class="finder-form finder-3"><div class="form-item" id="edit-3-wrapper">
+ <label for="edit-3">Search: </label>
+ <input type="text" maxlength="128" name="3" id="edit-3" size="60" value="" class="form-text form-autocomplete" />
+</div>
+<input class="finder-autocomplete" type="hidden" id="edit-3-autocomplete" value="https://bc.hidden-street.net/finder_autocomplete/autocomplete/3/3" disabled="disabled" /><input type="submit" name="find" id="edit-submit" value="Submit"  class="form-submit" />
+</div><input type="hidden" name="form_build_id" id="form-Cz_Mf8bRKEYRkoXMCmqMxP4lCrnzKkMXFv4aTz0LsQQ" value="form-Cz_Mf8bRKEYRkoXMCmqMxP4lCrnzKkMXFv4aTz0LsQQ"  />
+<input type="hidden" name="form_id" id="edit-finder-form-3" value="finder_form_3"  />
+
+</div></form>
+</div></div></div>      </div>
+    </div>
+  </div>  
+</div>
+        </div>
+		<script type="text/javascript">
+          $('#edit-3').example('Search for...', {className: 'not-focus'});
+        </script>
+      	</div>
+
+    <div id="main-wrapper">
+      <div id="main-wrapper-t">
+        <div id="main-wrapper-b" class="clear-both">
+                      <div id="top-content-across" class="clear-both">
+              <div id="block-block-14" class="block block-block block-1 block-last clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BC - Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0457239062247421"
+     data-ad-slot="9348370310"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>      </div>
+    </div>
+  </div>  
+</div>
+            </div>
+                  
+          <div id="sidebar-left-and-main">
+                          <div id="sidebar-left" class="sidebar">
+                <div id="block-menu-menu-database" class="block block-menu block-1 block-first clear-both">
+  <div class="block-t">
+    <div class="block-b">
+              <div class="block-subject-t">
+          <div class="block-subject-b">
+            <h2 class="block-subject">Database</h2>
+          </div>
+        </div>
+      
+      <div class="block-content content">
+        <ul class="menu"><li class="expanded first dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-171">General</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/experience-table" title="" id="dhtml_menu-181">Experience Table</a></li>
+<li class="leaf last dhtml-menu "><a href="/pet-closeness-table" title="" id="dhtml_menu-192">Pet Closeness Table</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-15281">Tools</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/character-avoidance-calculator" title="" id="dhtml_menu-15283">Character Avoidance Calculator</a></li>
+<li class="leaf  dhtml-menu "><a href="/character-damage-calculator" title="" id="dhtml_menu-15285">Character Damage Calculator</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster-avoidance-calculator" title="" id="dhtml_menu-15282">Monster Avoidance Calculator</a></li>
+<li class="leaf last dhtml-menu "><a href="/monster-damage-calculator" title="" id="dhtml_menu-15284">Monster Damage Calculator</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-172">Characters</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/character/class/admin" title="" id="dhtml_menu-193">Admin</a></li>
+<li class="leaf  dhtml-menu "><a href="/character/adventurers" title="" id="dhtml_menu-1653">Adventurers</a></li>
+<li class="leaf  dhtml-menu "><a href="/character/cygnus-knights" title="" id="dhtml_menu-1654">Cygnus Knights</a></li>
+<li class="leaf  dhtml-menu "><a href="/character/class/guild" title="" id="dhtml_menu-16175">Guild</a></li>
+<li class="leaf  dhtml-menu "><a href="/character/legends" title="" id="dhtml_menu-5111">Legends</a></li>
+<li class="leaf last dhtml-menu "><a href="/character/resistance" title="Resistance" id="dhtml_menu-15274">Resistance</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-174">Equipment</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/eq/accessories" title="" id="dhtml_menu-197">Accessories</a></li>
+<li class="leaf  dhtml-menu "><a href="/eq/armours" title="" id="dhtml_menu-196">Armours</a></li>
+<li class="leaf  dhtml-menu "><a href="/eq/taming-mob" id="dhtml_menu-15267">Taming Mob</a></li>
+<li class="leaf last dhtml-menu "><a href="/eq/weapons" title="" id="dhtml_menu-995">Weapons</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-173">Items</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/items/useable-items" title="" id="dhtml_menu-199">Useable Items</a></li>
+<li class="leaf  dhtml-menu "><a href="/items/ores" title="" id="dhtml_menu-200">Ores</a></li>
+<li class="leaf  dhtml-menu "><a href="/items/misc-items" title="" id="dhtml_menu-201">Misc. Items</a></li>
+<li class="leaf  dhtml-menu "><a href="/items/set-up" title="" id="dhtml_menu-202">Set-up</a></li>
+<li class="leaf last dhtml-menu "><a href="/items/maker-items" title="" id="dhtml_menu-3742">Maker Items</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-186">Item Synthesis</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/item-synthesis/common" title="" id="dhtml_menu-203">Common</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-synthesis/bowman" title="" id="dhtml_menu-205">Bowman</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-synthesis/magician" title="" id="dhtml_menu-206">Magician</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-synthesis/pirate" title="" id="dhtml_menu-208">Pirate</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-synthesis/thief" title="" id="dhtml_menu-207">Thief</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-synthesis/warrior" title="" id="dhtml_menu-204">Warrior</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-synthesis/weapon-forging" title="" id="dhtml_menu-209">Weapon Forging</a></li>
+<li class="leaf last dhtml-menu "><a href="/item-synthesis/itcg" title="" id="dhtml_menu-3759">iTCG Forging</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-5091">Item Maker</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/item-maker/warrior" title="" id="dhtml_menu-5092">Warrior</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-maker/magician" title="" id="dhtml_menu-5093">Magician</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-maker/bowman" title="" id="dhtml_menu-5094">Bowman</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-maker/thief" title="" id="dhtml_menu-5095">Thief</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-maker/pirate" title="" id="dhtml_menu-5096">Pirate</a></li>
+<li class="leaf  dhtml-menu "><a href="/item-maker/etc" title="" id="dhtml_menu-5097">Etc</a></li>
+<li class="leaf last dhtml-menu "><a href="/item-maker/useable" title="" id="dhtml_menu-5098">Useable</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-176">Maps</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/map/amoria" title="" id="dhtml_menu-214">Amoria</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/edelstein" title="" id="dhtml_menu-15537">Edelstein</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/ellin" title="" id="dhtml_menu-2287">Ellin</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/ereve" title="" id="dhtml_menu-2286">Ereve</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/maple-island" title="" id="dhtml_menu-211">Maple Island</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/masteria" title="" id="dhtml_menu-1413">Masteria</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/ossyria" title="" id="dhtml_menu-213">Ossyria</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/rien" title="Rien" id="dhtml_menu-8255">Rien</a></li>
+<li class="leaf  dhtml-menu "><a href="/map/victoria-island" title="" id="dhtml_menu-212">Victoria Island</a></li>
+<li class="leaf last dhtml-menu "><a href="/map/world-tour" title="" id="dhtml_menu-215">World Tour</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-175">Monsters</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/monster/list" id="dhtml_menu-1033">Monster List</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/element-weakness-list" id="dhtml_menu-1034">Element Weakness List</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/boss-list" title="" id="dhtml_menu-9027">Boss List</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/event" id="dhtml_menu-1032">Event Monsters</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/1-10" id="dhtml_menu-990">Level 1-10</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/11-20" id="dhtml_menu-1012">Level 11-20</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/21-30" id="dhtml_menu-1013">Level 21-30</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/31-40" id="dhtml_menu-1014">Level 31-40</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/41-50" id="dhtml_menu-1015">Level 41-50</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/51-60" id="dhtml_menu-1016">Level 51-60</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/61-70" id="dhtml_menu-1017">Level 61-70</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/71-80" id="dhtml_menu-1018">Level 71-80</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/81-90" id="dhtml_menu-1019">Level 81-90</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/91-100" id="dhtml_menu-1020">Level 91-100</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/101-120" id="dhtml_menu-16164">Level 101-120</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/121-140" id="dhtml_menu-16165">Level 121-140</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/141-160" id="dhtml_menu-16166">Level 141-160</a></li>
+<li class="leaf  dhtml-menu "><a href="/monster/161-180" id="dhtml_menu-16167">Level 161-180</a></li>
+<li class="leaf last dhtml-menu "><a href="/monster/181-200" id="dhtml_menu-16168">Level 181-200</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  active-trail"><a href="/database" title="" id="dhtml_menu-177">NPC &amp; Towns</a><ul class="menu"><li class="leaf first dhtml-menu  active-trail"><a href="/npc/npc-list" title="" id="dhtml_menu-230" class="active">NPC List</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/aquaroad" title="" id="dhtml_menu-240">Aquaroad</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/ariant" title="" id="dhtml_menu-249">Ariant</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/el-nath" title="" id="dhtml_menu-238">El Nath</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/ellinia" title="" id="dhtml_menu-233">Ellinia</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/henesys" title="" id="dhtml_menu-232">Henesys</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/herb-town" title="" id="dhtml_menu-248">Herb Town</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/kerning-city" title="" id="dhtml_menu-235">Kerning City</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/korean-folk-town" title="" id="dhtml_menu-245">Korean Folk Town</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/leafre" title="" id="dhtml_menu-246">Leafre</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/lith-harbor" title="" id="dhtml_menu-4818">Lith Harbor</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/ludibrium" title="" id="dhtml_menu-239">Ludibrium</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/malaysia-kampung-village" title="" id="dhtml_menu-255">Malaysia : Kampung Village</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/malaysia-trend-zone" title="" id="dhtml_menu-254">Malaysia : Trend Zone</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/mu-lung" title="" id="dhtml_menu-247">Mu Lung</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/mushroom-shrine" title="" id="dhtml_menu-242">Mushroom Shrine</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/nautilus-port" title="" id="dhtml_menu-250">Nautilus Port</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/new-leaf-city" title="" id="dhtml_menu-256">New Leaf City</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/omega-sector" title="" id="dhtml_menu-241">Omega Sector</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/orbis" title="" id="dhtml_menu-237">Orbis</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/perion" title="" id="dhtml_menu-234">Perion</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/showa" title="" id="dhtml_menu-243">Showa</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/singapore-boat-quay-town" title="" id="dhtml_menu-251">Singapore : Boat Quay Town</a></li>
+<li class="leaf  dhtml-menu "><a href="/town/singapore-cbd" title="" id="dhtml_menu-252">Singapore : CBD</a></li>
+<li class="leaf last dhtml-menu "><a href="/town/sleepywood" title="" id="dhtml_menu-236">Sleepywood</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-178">Quests</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/quest/list" id="dhtml_menu-5080">Quest List</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/fame" title="" id="dhtml_menu-16162">Quests with Fame</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/repeatable" id="dhtml_menu-17642">Quest with Repeatable</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/events" id="dhtml_menu-1029">Events</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/cygnus-knights" title="" id="dhtml_menu-5078">Cygnus Knights</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/hero-with-lost-memory" title="" id="dhtml_menu-6295">Hero With The Lost Memory</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/new-hero" title="" id="dhtml_menu-15271">New Hero</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/resistance" title="" id="dhtml_menu-16153">Resistance</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/maple-island" id="dhtml_menu-1030">Maple Island</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/1-10" id="dhtml_menu-999">Level 1-10</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/11-20" id="dhtml_menu-1022">Level 11-20</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/21-30" id="dhtml_menu-1023">Level 21-30</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/31-40" id="dhtml_menu-1024">Level 31-40</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/41-50" id="dhtml_menu-1025">Level 41-50</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/51-65" title="" id="dhtml_menu-1027">Level 51-65</a></li>
+<li class="leaf  dhtml-menu "><a href="/quest/66-200" id="dhtml_menu-11065">Level 66-200</a></li>
+<li class="leaf  dhtml-menu "><a href="/exchange-quest-crimsonwood" title="" id="dhtml_menu-6287">Exchange Quest (Crimsonwood)</a></li>
+<li class="leaf  dhtml-menu "><a href="/exchange-quest-orbis" title="" id="dhtml_menu-266">Exchange Quest (Orbis)</a></li>
+<li class="leaf last dhtml-menu "><a href="/exchange-quest-showa-town" title="" id="dhtml_menu-267">Exchange Quest (Showa)</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-179">Guild Quests</a><ul class="menu"><li class="leaf first last dhtml-menu "><a href="/guild-quest/sharenian" title="" id="dhtml_menu-268">Sharenian</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-180">Party Quests</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/party-quest/amorian-challenge" title="" id="dhtml_menu-272">Amoria</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/crimsonwood-keep" title="" id="dhtml_menu-276">Crimsonwood Keep</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/ellin-forest" title="" id="dhtml_menu-4848">Ellin Forest</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/ghost-ship-in-the-sea-mist" title="" id="dhtml_menu-16158">Ghost Ship in the Sea Mist</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/henesys" title="" id="dhtml_menu-274">Henesys</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/herb-town" title="" id="dhtml_menu-273">Herb Town</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/kerning-city" title="" id="dhtml_menu-269">Kerning City</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/ludibrium" title="" id="dhtml_menu-270">Ludibrium</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/magatia" title="" id="dhtml_menu-275">Magatia</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/monster-carnival" title="" id="dhtml_menu-277">Monster Carnival</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/monster-carnival-2" title="" id="dhtml_menu-5065">Monster Carnival 2</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/mu-lung-dojo" title="" id="dhtml_menu-5073">Mu Lung Dojo</a></li>
+<li class="leaf  dhtml-menu "><a href="/party-quest/netts-pyramid" title="Nett&#039;s Pyramid Party Quest" id="dhtml_menu-12570">Nett&#039;s Pyramid</a></li>
+<li class="leaf last dhtml-menu "><a href="/party-quest/orbis" title="" id="dhtml_menu-271">Orbis</a></li>
+</ul></li>
+<li class="expanded last dhtml-menu  collapsed start-collapsed "><a href="/database" title="" id="dhtml_menu-4845">Cash Shop</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/cash-shop/beauty-parlor" title="" id="dhtml_menu-4847">Beauty Parlor</a></li>
+<li class="leaf last dhtml-menu "><a href="/cash-shop/gachapon" title="" id="dhtml_menu-4846">Gachapon</a></li>
+</ul></li>
+</ul>      </div>
+    </div>
+  </div>  
+</div>
+<div id="block-block-1" class="block block-block block-2 clear-both">
+  <div class="block-t">
+    <div class="block-b">
+              <div class="block-subject-t">
+          <div class="block-subject-b">
+            <h2 class="block-subject">Affiliates</h2>
+          </div>
+        </div>
+      
+      <div class="block-content content">
+        <ul>
+<li><a href="http://www.sleepywood.net/">Sleepywood.net</a></li>
+<li><a href="http://www.mapletip.com/">MapleTip</a></li>
+<li><a href="http://www.basilmarket.com/">Basil Market</a></li>
+<li><a href="http://aquaroadradio.wordpress.com/">Aqua Road Radio</a></li>
+<li><a href="http://www.perioncorner.com/">Perion Corner</a></li>
+<li><a href="http://www.maple-radio.com/">Maple Radio</a></li>
+<li><a href="http://www.maple-news.com/">Maple News</a></li>
+<li><a href="http://mapledictionary.co.cc/">Maple Dictionary</a></li>
+</ul>
+      </div>
+    </div>
+  </div>  
+</div>
+<div id="block-views-updated-block_1" class="block block-views block-3 clear-both">
+  <div class="block-t">
+    <div class="block-b">
+              <div class="block-subject-t">
+          <div class="block-subject-b">
+            <h2 class="block-subject">Database Updates</h2>
+          </div>
+        </div>
+      
+      <div class="block-content content">
+        <div class="view view-updated view-id-updated view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/eq/engine/gold-engine">Gold Engine</a></span>
+  </div>
+  
+  <div class="views-field-log">
+                <span class="field-content">Updated weapon att. range</span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/monster/toy-trojan">Toy Trojan</a></span>
+  </div>
+  
+  <div class="views-field-log">
+                <span class="field-content">Remove Strawberry Earrings.</span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/eq/engine/bronze-engine">Bronze Engine</a></span>
+  </div>
+  
+  <div class="views-field-log">
+                <span class="field-content">Updated stat range.</span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/character/class/blade-master">Blade Master</a></span>
+  </div>
+  
+  <div class="views-field-log">
+                <span class="field-content">Updated skill.</span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/character/skill/venom-0">Venom</a></span>
+  </div>
+  
+  <div class="views-field-log">
+                <span class="field-content">Skill created.</span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div align="right"><a href="/database-updates">View more</a></div>
+    </div>
+  
+  
+</div>       </div>
+    </div>
+  </div>  
+</div>
+<div id="block-block-10" class="block block-block block-4 clear-both">
+  <div class="block-t">
+    <div class="block-b">
+              <div class="block-subject-t">
+          <div class="block-subject-b">
+            <h2 class="block-subject">Donation</h2>
+          </div>
+        </div>
+      
+      <div class="block-content content">
+        Have a dollar or two to spare?
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="paypal-donation">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="10638353">
+<input type="image" src="/sites/all/themes/lithharbor/images/paypal.png" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<h5><strong>Why should I donate?</strong></h5>
+Consider donating to help us with the high server costs of our database!<br />
+<a href="/why-should-i-donate">Read more details &raquo;</a>      </div>
+    </div>
+  </div>  
+</div>
+<div id="block-block-12" class="block block-block block-5 clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <p><a href="https://twitter.com/hiddenstreet"><img src="http://www.hidden-street.net/images/twitter.gif" title="Follow Hidden Street on Twitter!" /></a></p>
+      </div>
+    </div>
+  </div>  
+</div>
+<div id="block-block-16" class="block block-block block-6 block-last clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BC - Sidebar bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0457239062247421"
+     data-ad-slot="2479709631"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>      </div>
+    </div>
+  </div>  
+</div>
+              </div>
+            
+            <div id="main">
+                              <div id="top-content" class="clear-both">
+                  <div id="block-block-5" class="block block-block block-1 block-last clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <div align="center" style="margin-bottom: 15px;">
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://helios.gamerdna.com/addyn|3.0|5223|2418792|0|170|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://helios.gamerdna.com/adlink|3.0|5223|2418792|0|170|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://helios.gamerdna.com/adserv|3.0|5223|2418792|0|170|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="300" height="250"></a></noscript>
+</div>      </div>
+    </div>
+  </div>  
+</div>
+                </div>
+                    
+              <div id="breadcrumb"><div class="breadcrumb"><a href="/">Home</a></div></div>              
+              <div id="content">
+                                  <div class="title-t">
+                    <div class="title-b">
+                      <h1 class="title" id="page-title">NPC List</h1>
+                    </div>
+                  </div>
+                                                <div class="clear-both"><!-- --></div>
+                                                <div id="content-content" class="clear-both">
+                  <div class="view view-list-npc view-id-list_npc view-display-id-page_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-16">
+    <thead>
+    <tr>
+              <th class="views-field views-field-field-image-fid">
+                  </th>
+              <th class="views-field views-field-title">
+          Name        </th>
+              <th class="views-field views-field-field-map-nid">
+          Location        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/wonny" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="44" height="83" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/Wonny.png?1291997947" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/wonny">Wonny</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/black-wing-territory-edelstein">Black Wing Territory: Edelstein</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/worm-hole-to-the-present" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="131" height="168" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/WormHole.png?1283649807" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/worm-hole-to-the-present">Worm Hole to the Present</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/a-day-in-the-future-outskirts-of-future-henesys">A Day in the Future: Outskirts of Future Henesys</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/xan" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="51" height="68" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc_010009.png?1247401077" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/xan">Xan</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/singapore-cbd">Singapore: CBD</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/xinga" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="48" height="77" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/stand.0_8.png?1256364690" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/xinga">Xinga</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yai-bua" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="56" height="57" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc_900001_0.png?1257704628" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yai-bua">Yai Bua</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yaku" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="62" height="58" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc373.png?1246973955" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yaku">Yaku</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/leafre">Leafre</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yellow-king-goblin" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="129" height="118" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc_2071013.png?1247491001" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yellow-king-goblin">Yellow King Goblin</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/hidden-street-goblin-house">Hidden Street: Goblin House</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yellow-mesoranger" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="40" height="68" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc223.gif?1247112568" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yellow-mesoranger">Yellow Mesoranger</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/omega-sector-off-limits">Omega Sector: Off-Limits</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yokoyoko" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="40" height="66" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc266.gif?1247173007" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yokoyoko">YokoYoko</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/zipangu-showa-town">Zipangu: Showa Town</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yoona" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="65" height="74" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc005_1.gif?1247589185" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yoona">Yoona</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/maple-road-entrance-to-adventurer-training-center">Maple Road: Entrance to Adventurer Training Center</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yulete" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="50" height="91" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc_020013.png?1249345478" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yulete">Yulete</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yun" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="56" height="94" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/yun.png?1280587666" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yun">Yun</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/victoria-road-the-secret-garden-2nd-floor">Victoria Road: The Secret Garden 2nd Floor</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yuris" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="58" height="73" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc_2131002.png?1248852947" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yuris">Yuris</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/elin-forest-altaire-camp">Elin Forest: Altaire Camp</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/yuse" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="85" height="86" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc255.gif?1247173428" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/yuse">Yuse</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/zipangu-showa-town">Zipangu: Showa Town</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/zaid" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="58" height="88" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/npc399.png?1246678143" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/zaid">Zaid</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/the-burning-road-ariant">The Burning Road: Ariant</a>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-field-image-fid">
+            <a href="/npc/zechtok-2000" class="imagefield imagefield-nodelink imagefield-field_image"><img  class="imagefield imagefield-field_image" width="56" height="84" alt="" src="https://bc.hidden-street.net/sites/global.hidden-street.net/files/npcs/Zechtok-2000.png?1291903872" /></a>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/npc/zechtok-2000">Zechtok-2000</a>          </td>
+                  <td class="views-field views-field-field-map-nid">
+            <a href="/map/mini-map/verne-mine-first-square">Verne Mine: First Square</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/npc/npc-list" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="/npc/npc-list?page=21" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a href="/npc/npc-list?page=14" title="Go to page 15" class="active">15</a></li>
+<li class="pager-item"><a href="/npc/npc-list?page=15" title="Go to page 16" class="active">16</a></li>
+<li class="pager-item"><a href="/npc/npc-list?page=16" title="Go to page 17" class="active">17</a></li>
+<li class="pager-item"><a href="/npc/npc-list?page=17" title="Go to page 18" class="active">18</a></li>
+<li class="pager-item"><a href="/npc/npc-list?page=18" title="Go to page 19" class="active">19</a></li>
+<li class="pager-item"><a href="/npc/npc-list?page=19" title="Go to page 20" class="active">20</a></li>
+<li class="pager-item"><a href="/npc/npc-list?page=20" title="Go to page 21" class="active">21</a></li>
+<li class="pager-item"><a href="/npc/npc-list?page=21" title="Go to page 22" class="active">22</a></li>
+<li class="pager-current last">23</li>
+</ul></div>  
+  
+  
+  
+  
+</div>                 </div>
+              </div>
+      
+              
+              <div id="bottom-content">
+                                  <div id="block-block-6" class="block block-block block-1 block-last clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BC - Bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0457239062247421"
+     data-ad-slot="9236689674"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>      </div>
+    </div>
+  </div>  
+</div>
+                                <div id="back-to-top"><a href="#top">Top</a></div>
+              </div>
+            </div>
+
+            <div class="clear-both"><!-- --></div>
+          </div>
+
+                      <div id="sidebar-right" class="sidebar">
+              <div id="block-block-4" class="block block-block block-1 block-first clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BC - Sidebar -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0457239062247421"
+     data-ad-slot="9707462966"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>      </div>
+    </div>
+  </div>  
+</div>
+<div id="block-user-3" class="block block-user block-2 clear-both">
+  <div class="block-t">
+    <div class="block-b">
+              <div class="block-subject-t">
+          <div class="block-subject-b">
+            <h2 class="block-subject">Who's online</h2>
+          </div>
+        </div>
+      
+      <div class="block-content content">
+        There are currently <em>0 users</em> and <em>95 guests</em> online.      </div>
+    </div>
+  </div>  
+</div>
+<div id="block-views-quote-block_1" class="block block-views block-3 block-last clear-both">
+  <div class="block-t">
+    <div class="block-b">
+      
+      <div class="block-content content">
+        <div class="view view-quote view-id-quote view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-quote-value">
+                <div class="field-content">We are not the GameMasters (GM) for MapleStory.</div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>       </div>
+    </div>
+  </div>  
+</div>
+            </div>
+          
+          <div class="clear-both"><!-- --></div>
+        </div>
+      </div>
+    </div>
+
+          <div id="footer">
+        <div id="footer-message">
+          Copyright &copy; 2004-2011 Hidden Street. <a href="/privacy-policy">Privacy Policy</a><br /><br />
+MapleStory and any related images and content are copyrighted by Nexon.
+<br /><br />
+Hidden Street is a fansite set up to provide cohesive and comprehensive information to MapleStory gamers. Advertisements found in this site are to support server and related costs of maintaining this website.        </div>
+      </div>
+      </div>
+</div>
+  <script type="text/javascript" src="/sites/global.hidden-street.net/files/js/js_4853e0295db8b591f3078b08b2b34a26.jsmin.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "googleCSE": { "language": "en" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-989776-11"]);_gaq.push(["_trackPageview"]);_gaq.push(["_trackPageLoadTime"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+<!-- COMSCORE -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+COMSCORE.beacon({
+	c1:2,
+	c2:"6885237",
+	c3:"",
+	c4:"",
+	c5:"",
+	c6:"",
+	c15:""
+});
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6885237&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript>
+<!-- /COMSCORE -->
+</body>
+</html>

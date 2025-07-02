@@ -1174,4 +1174,16 @@
     <string name="name" value="MISSING NAME"/>
     <string name="desc" value="MISSING INFO"/>
   </imgdir>
+      <imgdir name="3012002">
+        <string name="name" value="Rubber Ducky Bath" />
+        <string name="desc" value="Wooden bath tub. Sit on it to recover HP 60 per 10 seconds." />
+    </imgdir>
+    <imgdir name="3015482">
+        <string name="name" value="Dozing Duckling Chair" />
+        <string name="desc" value="#cRestores 100 HP and 100 MP every 10 seconds.# Designed by China MapleStory player muzi." />
+    </imgdir>
+    <imgdir name="3015104">
+        <string name="name" value="Rubber Ducky Chair" />
+        <string name="desc" value="The perfect chair during bathtime. Recovers 50 HP and 50 MP every 10 seconds." />
+    </imgdir>
 </imgdir>

@@ -47,7 +47,7 @@ public class Ola {
         }, 360000);
     }
 
-    public void startOla() { // TODO: Messages
+    public void startOla() { // TO DO: Messages
         chr.getMap().startEvent();
         chr.sendPacket(PacketCreator.getClock(360));
         this.timeStarted = System.currentTimeMillis();

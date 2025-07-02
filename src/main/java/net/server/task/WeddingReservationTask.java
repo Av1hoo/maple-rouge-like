@@ -28,7 +28,7 @@ import java.util.Set;
 /**
  * @author Ronan
  */
-public class WeddingReservationTask extends BaseTask implements Runnable {
+public class WeddingReservationTask extends BaseTask {
 
     @Override
     public void run() {

@@ -35,7 +35,6 @@ import tools.Pair;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
@@ -327,7 +326,7 @@ public class Inventory implements Iterable<Item> {
 
     public void removeItem(short slot, short quantity, boolean allowZero) {
         Item item = getItem(slot);
-        if (item == null) {// TODO is it ok not to throw an exception here?
+        if (item == null) {
             return;
         }
         item.setQuantity((short) (item.getQuantity() - quantity));

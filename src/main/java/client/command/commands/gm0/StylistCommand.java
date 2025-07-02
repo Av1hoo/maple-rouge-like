@@ -4,7 +4,6 @@ import client.AscensionConstants;
 import client.Character;
 import client.Client;
 import client.command.Command;
-import client.inventory.manipulator.InventoryManipulator;
 
 import static constants.id.MapId.GM_MAP;
 

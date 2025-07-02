@@ -18,27 +18,15 @@
  */
 package server;
 
-import client.Client;
 import client.inventory.InventoryType;
 import client.inventory.Item;
 import client.inventory.ItemFactory;
-import constants.game.GameConstants;
-import constants.id.ItemId;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import provider.Data;
-import provider.DataProvider;
-import provider.DataProviderFactory;
-import provider.DataTool;
-import provider.wz.WZFiles;
 import tools.DatabaseConnection;
-import tools.PacketCreator;
 import tools.Pair;
 
 import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -182,7 +170,6 @@ public class ResourceStorage {
             else {
                 // we need to check for overflow - quantity is a short, max value 32767
                 // for now - just don't allow storage if qty would exceed
-                // TODO - let's migrate resource storage to a separate table.  It will make all of this a little less hacky
                 int newQty = item.getQuantity() + existing.getQuantity();
                 if (newQty > Short.MAX_VALUE) {
                     return false;

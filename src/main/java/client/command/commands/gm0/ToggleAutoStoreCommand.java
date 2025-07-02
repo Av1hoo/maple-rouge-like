@@ -2,7 +2,6 @@ package client.command.commands.gm0;
 
 import client.Client;
 import client.command.Command;
-import client.inventory.manipulator.InventoryManipulator;
 import client.Character;
 
 

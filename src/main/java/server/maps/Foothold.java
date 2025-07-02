@@ -58,7 +58,7 @@ public class Foothold implements Comparable<Foothold> {
         return p2.y;
     }
 
-    // XXX may need more precision
+    //  may need more precision
     public int calculateFooting(int x) {
         if (p1.y == p2.y) {
             return p2.y; // y at both ends is the same

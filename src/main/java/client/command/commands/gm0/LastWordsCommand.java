@@ -3,7 +3,6 @@ package client.command.commands.gm0;
 import client.Character;
 import client.Client;
 import client.command.Command;
-import net.server.world.World;
 
 public class LastWordsCommand extends Command {
     {

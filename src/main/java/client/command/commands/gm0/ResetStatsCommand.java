@@ -27,21 +27,10 @@ import client.Character;
 import client.Client;
 import client.Stat;
 import client.command.Command;
-import client.inventory.Equip;
-import client.inventory.InventoryType;
-import client.inventory.Item;
-import client.inventory.ModifyInventory;
-import client.inventory.manipulator.InventoryManipulator;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import tools.PacketCreator;
 import tools.Pair;
-
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class ResetStatsCommand extends Command {
     {

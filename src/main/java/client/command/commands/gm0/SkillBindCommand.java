@@ -6,7 +6,6 @@ package client.command.commands.gm0;
 
 import client.Client;
 import client.command.Command;
-import constants.id.NpcId;
 
 public class SkillBindCommand extends Command {
     {

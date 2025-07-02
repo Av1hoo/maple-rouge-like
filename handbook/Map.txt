@@ -2,6 +2,7 @@ maple
 
 0 - Maple Road - Entrance - Mushroom Town Training Camp
 1 - Maple Road - Upper level of the Training Camp
+105040402 - Dungeon: VIP Sauna
 10000 - Maple Road - Mushroom Town
 1000000 - Rainbow Street - Amherst
 1000001 - Rainbow Street - Amherst Weapon Store

@@ -159,6 +159,7 @@ public class Quest {
                         relevantMobs.add(DataTool.getInt(mob.getChildByPath("id")));
                     }
                     break;
+                default:
                 }
 
                 AbstractQuestRequirement req = this.getRequirement(type, startReq);

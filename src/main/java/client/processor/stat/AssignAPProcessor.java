@@ -468,6 +468,7 @@ public class AssignAPProcessor {
                 statUpdate[1] = newVal;
             }
             break;
+        default:
         }
 
         if (newVal > YamlConfig.config.server.MAX_AP) {

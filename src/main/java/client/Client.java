@@ -491,7 +491,7 @@ public class Client extends ChannelInboundHandlerAdapter {
         }
     }
 
-    // TODO: Recode to close statements...
+    // TO DO: Recode to close statements...
     private void loadMacsIfNescessary() throws SQLException {
         if (macs.isEmpty()) {
             try (Connection con = DatabaseConnection.getConnection();

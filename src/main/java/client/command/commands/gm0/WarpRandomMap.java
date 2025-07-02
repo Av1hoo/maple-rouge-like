@@ -3,7 +3,6 @@ package client.command.commands.gm0;
 import client.Character;
 import client.Client;
 import client.command.Command;
-import server.maps.FieldLimit;
 import server.maps.MapleMap;
 import java.util.Random;
 
